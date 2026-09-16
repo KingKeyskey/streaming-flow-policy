@@ -1,0 +1,33 @@
+{
+  "branch_counts": [
+    2,
+    3,
+    4
+  ],
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "adjacent_angle_deg": 40.0,
+  "branch_time": 0.25,
+  "total_time": 1.0,
+  "stem_length": 0.25,
+  "branch_length": 0.5,
+  "sigma_0": 0.05,
+  "stabilizing_gain": 2.5,
+  "num_train_samples": 100000,
+  "num_validation_samples": 20000,
+  "num_epochs": 200,
+  "batch_size": 2048,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-06,
+  "num_test_samples": 1000,
+  "test_seed": 0,
+  "ode_steps": 1000,
+  "success_threshold": 0.05,
+  "hidden_dim": 128,
+  "num_hidden_layers": 4
+}

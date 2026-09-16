@@ -1,0 +1,262 @@
+[
+  {
+    "angle": 20.0,
+    "seed": 0,
+    "metrics": {
+      "success_001": 0.091,
+      "success_005": 0.554,
+      "mean_error": 0.04781067562955414,
+      "p95_error": 0.08646638145895365,
+      "max_error": 0.23670183794907532,
+      "upper_fraction": 0.457
+    },
+    "best_validation_loss": 0.002340239663794637
+  },
+  {
+    "angle": 20.0,
+    "seed": 1,
+    "metrics": {
+      "success_001": 0.088,
+      "success_005": 0.545,
+      "mean_error": 0.0477442083698828,
+      "p95_error": 0.0866324030894171,
+      "max_error": 0.28455580632833444,
+      "upper_fraction": 0.482
+    },
+    "best_validation_loss": 0.0023612055771052836
+  },
+  {
+    "angle": 20.0,
+    "seed": 2,
+    "metrics": {
+      "success_001": 0.098,
+      "success_005": 0.548,
+      "mean_error": 0.04772258796918655,
+      "p95_error": 0.0868768533647483,
+      "max_error": 0.3373214313385809,
+      "upper_fraction": 0.499
+    },
+    "best_validation_loss": 0.002426470507308841
+  },
+  {
+    "angle": 20.0,
+    "seed": 3,
+    "metrics": {
+      "success_001": 0.086,
+      "success_005": 0.565,
+      "mean_error": 0.04829507976288696,
+      "p95_error": 0.0885022647104244,
+      "max_error": 0.47250998744541856,
+      "upper_fraction": 0.531
+    },
+    "best_validation_loss": 0.002647007502987981
+  },
+  {
+    "angle": 20.0,
+    "seed": 4,
+    "metrics": {
+      "success_001": 0.095,
+      "success_005": 0.552,
+      "mean_error": 0.047721858361858736,
+      "p95_error": 0.08575512067309547,
+      "max_error": 0.235538197454641,
+      "upper_fraction": 0.46
+    },
+    "best_validation_loss": 0.002539056173339486
+  },
+  {
+    "angle": 40.0,
+    "seed": 0,
+    "metrics": {
+      "success_001": 0.046,
+      "success_005": 0.278,
+      "mean_error": 0.08929842315918914,
+      "p95_error": 0.16702295288912802,
+      "max_error": 0.3641032976818701,
+      "upper_fraction": 0.461
+    },
+    "best_validation_loss": 0.0036887258425354957
+  },
+  {
+    "angle": 40.0,
+    "seed": 1,
+    "metrics": {
+      "success_001": 0.042,
+      "success_005": 0.263,
+      "mean_error": 0.09209011526200765,
+      "p95_error": 0.16770904935472292,
+      "max_error": 0.4152211864800569,
+      "upper_fraction": 0.474
+    },
+    "best_validation_loss": 0.0038914338301867246
+  },
+  {
+    "angle": 40.0,
+    "seed": 2,
+    "metrics": {
+      "success_001": 0.039,
+      "success_005": 0.27,
+      "mean_error": 0.08919165807395334,
+      "p95_error": 0.16951772035352147,
+      "max_error": 0.43022162685909504,
+      "upper_fraction": 0.492
+    },
+    "best_validation_loss": 0.003729797588288784
+  },
+  {
+    "angle": 40.0,
+    "seed": 3,
+    "metrics": {
+      "success_001": 0.044,
+      "success_005": 0.293,
+      "mean_error": 0.08555672097536712,
+      "p95_error": 0.16542469085604106,
+      "max_error": 0.3637802198932554,
+      "upper_fraction": 0.515
+    },
+    "best_validation_loss": 0.0038454997912049293
+  },
+  {
+    "angle": 40.0,
+    "seed": 4,
+    "metrics": {
+      "success_001": 0.046,
+      "success_005": 0.291,
+      "mean_error": 0.09076347862445419,
+      "p95_error": 0.16806713337304463,
+      "max_error": 0.41290909054596053,
+      "upper_fraction": 0.46
+    },
+    "best_validation_loss": 0.0036141484517604114
+  },
+  {
+    "angle": 60.0,
+    "seed": 0,
+    "metrics": {
+      "success_001": 0.396,
+      "success_005": 0.783,
+      "mean_error": 0.035694556839326694,
+      "p95_error": 0.14711978212053567,
+      "max_error": 0.2502730187013596,
+      "upper_fraction": 0.501
+    },
+    "best_validation_loss": 0.0036898759439587593
+  },
+  {
+    "angle": 60.0,
+    "seed": 1,
+    "metrics": {
+      "success_001": 0.027,
+      "success_005": 0.199,
+      "mean_error": 0.12393188605821752,
+      "p95_error": 0.24039810878351367,
+      "max_error": 0.48356298330095404,
+      "upper_fraction": 0.501
+    },
+    "best_validation_loss": 0.0050497259847819805
+  },
+  {
+    "angle": 60.0,
+    "seed": 2,
+    "metrics": {
+      "success_001": 0.073,
+      "success_005": 0.387,
+      "mean_error": 0.0929998101187589,
+      "p95_error": 0.22726732232564315,
+      "max_error": 0.3244897572854667,
+      "upper_fraction": 0.546
+    },
+    "best_validation_loss": 0.00448250777348876
+  },
+  {
+    "angle": 60.0,
+    "seed": 3,
+    "metrics": {
+      "success_001": 0.406,
+      "success_005": 0.887,
+      "mean_error": 0.022527816097149055,
+      "p95_error": 0.07357086825077248,
+      "max_error": 0.24108555744250923,
+      "upper_fraction": 0.468
+    },
+    "best_validation_loss": 0.0036552388932555913
+  },
+  {
+    "angle": 60.0,
+    "seed": 4,
+    "metrics": {
+      "success_001": 0.034,
+      "success_005": 0.229,
+      "mean_error": 0.11455563964620222,
+      "p95_error": 0.2339767555347384,
+      "max_error": 0.33643988774459455,
+      "upper_fraction": 0.477
+    },
+    "best_validation_loss": 0.004612356035411358
+  },
+  {
+    "angle": 80.0,
+    "seed": 0,
+    "metrics": {
+      "success_001": 0.27,
+      "success_005": 0.572,
+      "mean_error": 0.07119959776063838,
+      "p95_error": 0.2638041907261254,
+      "max_error": 0.3242351538504943,
+      "upper_fraction": 0.453
+    },
+    "best_validation_loss": 0.004687381102144718
+  },
+  {
+    "angle": 80.0,
+    "seed": 1,
+    "metrics": {
+      "success_001": 0.744,
+      "success_005": 0.997,
+      "mean_error": 0.008704512710063821,
+      "p95_error": 0.024095934421734733,
+      "max_error": 0.09566890144755845,
+      "upper_fraction": 0.511
+    },
+    "best_validation_loss": 0.0037736176393926143
+  },
+  {
+    "angle": 80.0,
+    "seed": 2,
+    "metrics": {
+      "success_001": 0.158,
+      "success_005": 0.492,
+      "mean_error": 0.08282426929294698,
+      "p95_error": 0.26817473824646426,
+      "max_error": 0.32419647552363196,
+      "upper_fraction": 0.47
+    },
+    "best_validation_loss": 0.004892021354287863
+  },
+  {
+    "angle": 80.0,
+    "seed": 3,
+    "metrics": {
+      "success_001": 0.762,
+      "success_005": 0.986,
+      "mean_error": 0.009001302036305085,
+      "p95_error": 0.025197001604599163,
+      "max_error": 0.12156385717082525,
+      "upper_fraction": 0.5
+    },
+    "best_validation_loss": 0.003171603460609913
+  },
+  {
+    "angle": 80.0,
+    "seed": 4,
+    "metrics": {
+      "success_001": 0.174,
+      "success_005": 0.61,
+      "mean_error": 0.0650416516997798,
+      "p95_error": 0.24308891652967354,
+      "max_error": 0.31966531997919134,
+      "upper_fraction": 0.481
+    },
+    "best_validation_loss": 0.004514937538653612
+  }
+]

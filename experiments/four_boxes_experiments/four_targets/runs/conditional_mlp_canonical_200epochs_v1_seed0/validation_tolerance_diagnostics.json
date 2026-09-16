@@ -1,0 +1,52 @@
+{
+  "primary_tolerance": 0.02,
+  "num_validation_layouts": 100,
+  "threshold_results": [
+    {
+      "tolerance": 0.005,
+      "success_50": 0.0,
+      "success_200": 0.01
+    },
+    {
+      "tolerance": 0.01,
+      "success_50": 0.0,
+      "success_200": 0.05
+    },
+    {
+      "tolerance": 0.02,
+      "success_50": 0.05,
+      "success_200": 0.21
+    },
+    {
+      "tolerance": 0.03,
+      "success_50": 0.07,
+      "success_200": 0.37
+    },
+    {
+      "tolerance": 0.05,
+      "success_50": 0.22,
+      "success_200": 0.53
+    },
+    {
+      "tolerance": 0.075,
+      "success_50": 0.35,
+      "success_200": 0.66
+    },
+    {
+      "tolerance": 0.1,
+      "success_50": 0.46,
+      "success_200": 0.74
+    }
+  ],
+  "groups_200": {
+    "All targets within 0.02": 21,
+    "Worst target in (0.02, 0.05]": 32,
+    "Worst target farther than 0.05": 47
+  },
+  "paired_completion": {
+    "success_both": 5,
+    "became_successful": 16,
+    "lost_success": 0,
+    "failed_both": 79
+  }
+}

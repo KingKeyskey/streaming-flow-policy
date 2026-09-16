@@ -1,0 +1,15 @@
+{
+  "seed": 0,
+  "num_epochs": 50,
+  "steps_per_epoch": 100,
+  "batch_size": 2048,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-06,
+  "hidden_dim": 128,
+  "num_hidden_layers": 4,
+  "sigma_0": 0.05,
+  "stabilizing_gain": 2.5,
+  "validation_probe_seed": 500,
+  "validation_probe_size": 20000,
+  "dataset_dir": "/home/matcho/projects/streaming-flow-policy/experiments/four_boxes_experiments/four_targets/datasets/v1"
+}

@@ -1,0 +1,18 @@
+{
+  "success_005": 1.0,
+  "success_001": 0.95,
+  "mean_error": 0.0051956316312804255,
+  "p95_error": 0.009942245716170008,
+  "successful_counts_by_branch": [
+    337,
+    340,
+    323
+  ],
+  "successful_fractions_by_branch": [
+    0.337,
+    0.34,
+    0.323
+  ],
+  "covered_branches": 3,
+  "branch_tv_among_successes": 0.010333333333333361
+}
