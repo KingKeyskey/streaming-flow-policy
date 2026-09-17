@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="Experiments of four boxes on 50 200 1000 2000 5000 epoches" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="experiments/multimodal-paths" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KingKeyskey&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KingKeyskey/streaming-flow-policy.git&quot;,
+    &quot;accountId&quot;: &quot;6d1c0b2b-2f63-4754-b683-5204bbff8145&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0003133364007721" />
+      <entry key="MS500" value="1.1991600240713955" />
+      <entry key="S2" value="1.6680370391950496" />
+      <entry key="S5" value="1.8509816924419489" />
+      <entry key="S10" value="1.9224866895744075" />
+      <entry key="S30" value="1.973464315974801" />
+      <entry key="S60" value="1.986739998360477" />
+      <entry key="M2" value="2.0446463807137443" />
+      <entry key="M5" value="4.236574288563878" />
+      <entry key="M10" value="9.907656430653626" />
+      <entry key="M15" value="14.050960929297418" />
+      <entry key="M30" value="20.4809706489565" />
+      <entry key="H1" value="25.991231673248443" />
+      <entry key="H2" value="32.028516854974775" />
+      <entry key="H4" value="38.058873577286604" />
+      <entry key="D1" value="46.6607166107699" />
+      <entry key="W1" value="48.64995399977057" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.16406265893847322" />
+      <entry key="MS500" value="0.8887816428546252" />
+      <entry key="S2" value="1.5757887373442903" />
+      <entry key="S5" value="1.812501991597992" />
+      <entry key="S10" value="1.902961047084298" />
+      <entry key="S30" value="1.9668899490811833" />
+      <entry key="S60" value="1.983444402041957" />
+      <entry key="M2" value="2.0429857710322286" />
+      <entry key="M5" value="4.235675977284012" />
+      <entry key="M10" value="9.906855925496174" />
+      <entry key="M15" value="14.050242616269417" />
+      <entry key="M30" value="20.48044884817022" />
+      <entry key="H1" value="25.990831665146953" />
+      <entry key="H2" value="32.02816418145664" />
+      <entry key="H4" value="38.05859748650034" />
+      <entry key="D1" value="46.660643815550024" />
+      <entry key="W1" value="48.64994267165726" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IxnP4MDW7NjWw1x67EE2zK9LFb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "git.auto.fetch.suggestion.counter": "2",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/matcho/projects/streaming-flow-policy/experiments/four_boxes_experiments",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.Jupyter Settings",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu\home\matcho\projects\streaming-flow-policy\experiments\four_boxes_experiments" />
+      <recent name="\\wsl.localhost\Ubuntu\home\matcho\projects\streaming-flow-policy\experiments" />
+      <recent name="\\wsl.localhost\Ubuntu\home\matcho\projects\streaming-flow-policy\experiments\multimodal_paths" />
+      <recent name="\\wsl.localhost\Ubuntu\home\matcho\projects\streaming-flow-policy\notebooks\pusht" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu\home\matcho\projects\streaming-flow-policy\experiments\four_boxes_experiments" />
+      <recent name="\\wsl.localhost\Ubuntu\home\matcho\projects\streaming-flow-policy\experiments\four_boxes_experiments\four_targets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.9437.214" />
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="" />
+      <created>1788715059937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788715059937</updated>
+      <workItem from="1788715060943" duration="3206000" />
+      <workItem from="1788727433578" duration="1810000" />
+      <workItem from="1788730015708" duration="16151000" />
+      <workItem from="1788751575518" duration="68000" />
+      <workItem from="1788751660471" duration="8264000" />
+      <workItem from="1789035519654" duration="1348000" />
+      <workItem from="1789069663526" duration="22783000" />
+      <workItem from="1789437019430" duration="10664000" />
+      <workItem from="1789522075937" duration="5057000" />
+      <workItem from="1789612816489" duration="1677000" />
+    </task>
+    <task id="LOCAL-00001" summary="Experiments of four boxes on 50 200 1000 2000 5000 epoches">
+      <option name="closed" value="true" />
+      <created>1789523123357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789523123357</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Experiments of four boxes on 50 200 1000 2000 5000 epoches">
+      <option name="closed" value="true" />
+      <created>1789523151823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789523151823</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Experiments of four boxes on 50 200 1000 2000 5000 epoches">
+      <option name="closed" value="true" />
+      <created>1789524807771</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789524807771</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Experiments of four boxes on 50 200 1000 2000 5000 epoches" />
+    <option name="LAST_COMMIT_MESSAGE" value="Experiments of four boxes on 50 200 1000 2000 5000 epoches" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/four_target_shortest_paths_5000_epochs_ipynb$1.coverage" NAME="1 覆盖结果" MODIFIED="1789437806415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiments/four_boxes_experiments" />
+  </component>
+</project>
