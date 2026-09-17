@@ -1,0 +1,2697 @@
+{
+  "source_rollouts": "/home/matcho/projects/streaming-flow-policy/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_2000epochs_v1_seed0/2000_epochs_Validation_rollouts.npz",
+  "visit_radius": 0.02,
+  "order_definition": "first entry into each target circle",
+  "records": [
+    {
+      "evaluation_row": 0,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.6157858108757899,
+        0.3635269102621188,
+        0.9602455843445148,
+        0.19785138911786382
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.0240350736868524,
+      "generated_length": 1.0457727809561397,
+      "order": [
+        3,
+        1,
+        0,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.0240350736868524,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 1,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.4807975510905294,
+        0.7630769958644309,
+        0.36714011659863804,
+        0.986368128390109
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3139596018722182,
+      "generated_length": 1.317214837096636,
+      "order": [
+        2,
+        0,
+        1,
+        3
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.3139596018722182,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 2,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.326353202369928,
+        null,
+        0.16618332252881127,
+        0.5685183903367091
+      ],
+      "contact_episode_counts": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.0802344727636959,
+      "generated_length": 1.1313621659302504,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 3,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.746987156716888,
+        0.42063614475839717,
+        0.9820552133027133,
+        0.8464216701165337
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3462098874923794,
+      "generated_length": 1.359061447491896,
+      "order": [
+        1,
+        0,
+        3,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.3462098874923794,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 4,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.7109720297505249,
+        0.3685269532672612,
+        0.9908926402154661,
+        0.5724918032042012
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.46177683149998,
+      "generated_length": 1.4554732348182733,
+      "order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.46177683149998,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 5,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.23678329510347004,
+        null,
+        null,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.400657981568387,
+      "generated_length": 1.2712477468581627,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 6,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.5970341418920742,
+        0.344843982850865,
+        0.9835989445176715,
+        0.22833518178748927
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3968348545251468,
+      "generated_length": 1.4000600990857155,
+      "order": [
+        3,
+        1,
+        0,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.3968348545251468,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 7,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.4638238646280722,
+        0.17625848715108233,
+        null,
+        0.9557501645608957
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3612622497601254,
+      "generated_length": 1.2946898430599327,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 8,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.988830732060407,
+        0.5704109293959584,
+        0.764352528341302,
+        0.4061901381309364
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.2965902745611462,
+      "generated_length": 1.2986336784037515,
+      "order": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.2965902745611462,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 9,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        null,
+        0.20096475890468896,
+        0.5249977245897769
+      ],
+      "contact_episode_counts": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.7963135602559168,
+      "generated_length": 1.7688480855604112,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 10,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.7425765413038242,
+        0.22492137740578377,
+        0.5093592285978417,
+        0.9709771709720376
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.0220612554598452,
+      "generated_length": 1.0452680552239952,
+      "order": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.0220612554598452,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 11,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.28248946638788774,
+        0.8658648740962425,
+        null,
+        0.6900875180234065
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.5454434470284113,
+      "generated_length": 1.511952943479837,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 12,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.45185556572385177,
+        0.9731442839956557,
+        0.6787146394949779,
+        0.25164025950677943
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.1515668869831743,
+      "generated_length": 1.1348734328783505,
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.1515668869831743,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 13,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.9829464790099139,
+        0.809190726110853,
+        null,
+        0.36616768805328404
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.29550038748154,
+      "generated_length": 1.2761933140991113,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 14,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.14428874417929377,
+        0.8209397528101443,
+        0.990702904009084,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.411740630152554,
+      "generated_length": 1.3799534454492122,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 15,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.18697527958355042,
+        0.9784434533832783,
+        0.43412051561893067,
+        0.6620713186328844
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3097284260252775,
+      "generated_length": 1.2960821590221383,
+      "order": [
+        0,
+        2,
+        3,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.3097284260252775,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 16,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.8202556174190596,
+        0.9874719247231819,
+        0.46093017871968384,
+        0.5686691719129257
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.2161569931033087,
+      "generated_length": 1.2005219725237897,
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.2161569931033087,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 17,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.4277827700849031,
+        null,
+        0.9907119917134394,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.386852108805628,
+      "generated_length": 1.3781225649180735,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 18,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        null,
+        null,
+        0.2639326657155983
+      ],
+      "contact_episode_counts": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.348626594609815,
+      "generated_length": 1.027486436670554,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 19,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        null,
+        0.3764834769374404,
+        0.23554770269723346
+      ],
+      "contact_episode_counts": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.440148233786691,
+      "generated_length": 1.435664546701523,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 20,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.9909530173257938,
+        0.8636500666355655,
+        0.5204614626408915,
+        0.2617071075365807
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.7101646379066393,
+      "generated_length": 1.7009271002810373,
+      "order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.7101646379066393,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 21,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.2361115029148131,
+        0.640969294285182,
+        0.44036043256048546,
+        0.9862766293106521
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.4333896091655838,
+      "generated_length": 1.438049306413797,
+      "order": [
+        0,
+        2,
+        1,
+        3
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.4333896091655838,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 22,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.749529429431875,
+        0.13354417879685324,
+        0.5219145211496623,
+        0.9782132480168134
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3134358285750418,
+      "generated_length": 1.310668891198354,
+      "order": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.3134358285750418,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 23,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        0.9637774504614848,
+        null,
+        0.17976178983783236
+      ],
+      "contact_episode_counts": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.2753094620660188,
+      "generated_length": 1.2202446662644681,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 24,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.5856919724499805,
+        null,
+        0.9786762487958078,
+        0.2687231885792375
+      ],
+      "contact_episode_counts": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 0.9701811307305073,
+      "generated_length": 0.9277827726391151,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 25,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.5426792990249021,
+        0.981081967998441,
+        0.7190194295401976,
+        0.4401758855344272
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.2952578586930092,
+      "generated_length": 1.2961225020184686,
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.2952578586930092,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 26,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        0.2631727815891745,
+        0.43195735046938283,
+        0.9745245816748213
+      ],
+      "contact_episode_counts": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.6217685768952945,
+      "generated_length": 1.3017957758072443,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 27,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.47796046671996273,
+        0.9814740400657466,
+        0.6228354304644109,
+        0.7642638448749639
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.0978457356585496,
+      "generated_length": 1.0916039444331833,
+      "order": [
+        0,
+        2,
+        3,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.0978457356585496,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 28,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.9863538529792174,
+        0.6322645116374601,
+        0.43334364940186404,
+        0.23499300543157864
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3619989807257458,
+      "generated_length": 1.358445655949485,
+      "order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.3619989807257458,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 29,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.5497213426089271,
+        0.7747172734167582,
+        0.9731902639484964,
+        0.3861504975030065
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 0.9609456701626191,
+      "generated_length": 0.9497505972347422,
+      "order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 0.9609456701626191,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 30,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.47955108940621677,
+        0.2905791740924484,
+        0.7249021161454797,
+        0.981037880427555
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.4200839813063197,
+      "generated_length": 1.42247534723503,
+      "order": [
+        1,
+        0,
+        2,
+        3
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.4200839813063197,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 31,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.9827846818119452,
+        0.4704666783317463,
+        0.3119599606989581,
+        0.6623329064332074
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.0668150320456937,
+      "generated_length": 1.038523480031356,
+      "order": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.0668150320456937,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 32,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.9819699280937856,
+        0.629626750351847,
+        0.7909075147893975,
+        0.4455846755520185
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.2066542484903975,
+      "generated_length": 1.194452556631033,
+      "order": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.2066542484903975,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 33,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.46790172297733185,
+        0.7736330526074308,
+        0.9847007665059867,
+        0.2629006714453913
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.5189154118524486,
+      "generated_length": 1.53801503834715,
+      "order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.5189154118524486,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 34,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        0.7935041149646463,
+        0.5680064134992923,
+        0.9999094869009915
+      ],
+      "contact_episode_counts": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 0.8698555548367161,
+      "generated_length": 0.8440675202149136,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 35,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.9927684118352094,
+        0.27786430972296833,
+        0.781438614579832,
+        0.5399523978879452
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.1207211375399448,
+      "generated_length": 1.108155457746299,
+      "order": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.1207211375399448,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 36,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.6860112554144854,
+        0.9922326994399449,
+        0.5439993091571236,
+        0.2862553568395634
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.5195885964435645,
+      "generated_length": 1.5112458162619231,
+      "order": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.5195885964435645,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 37,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.7105653453050491,
+        0.9913232116447135,
+        0.5254923517677855,
+        0.30466054837483336
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.5203238184362267,
+      "generated_length": 1.4979137355082162,
+      "order": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.5203238184362267,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 38,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.9902134438623138,
+        0.6695055000697044,
+        0.5397407814008949,
+        0.24011978347983862
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 0.9261329289408344,
+      "generated_length": 0.8942821685964981,
+      "order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 0.9261329289408344,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 39,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.9770224077215214,
+        null,
+        0.5204039045596058,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        0,
+        2,
+        0
+      ],
+      "has_reentry": true,
+      "optimal_length": 1.2516897132842786,
+      "generated_length": 1.1799163491952487,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 40,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.9711444158229934,
+        0.583601868517355,
+        0.7978930026549569,
+        0.25098262256653947
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 0.9007786966650146,
+      "generated_length": 0.9120652765262403,
+      "order": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 0.9007786966650146,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 41,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.7298454636211587,
+        0.9869379577202624,
+        0.3474898535323147,
+        0.5845906118016
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.5080661662551915,
+      "generated_length": 1.5111768588811312,
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.5080661662551915,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 42,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.2697138602439146,
+        0.6620863216760134,
+        null,
+        0.9857842032255351
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.452814595784381,
+      "generated_length": 1.4294066103344105,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 43,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.9872837703426519,
+        0.8935589042304658,
+        0.3515671397781522,
+        0.7078254902812462
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.5033155164919323,
+      "generated_length": 1.4830808431287084,
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.5033155164919323,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 44,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        null,
+        0.24177106700232698,
+        null
+      ],
+      "contact_episode_counts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.717335671890562,
+      "generated_length": 1.466409435212424,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 45,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.776658093757018,
+        0.41430623433622066,
+        0.951935259306997,
+        0.22496455728233927
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 0.7587217398593279,
+      "generated_length": 0.7823931209125845,
+      "order": [
+        3,
+        1,
+        0,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 0.7587217398593279,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 46,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.8431289980492862,
+        0.9911599661982345,
+        null,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.6582222415486687,
+      "generated_length": 1.411994136139135,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 47,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.991229611542702,
+        0.5395365273855768,
+        0.8029854072557285,
+        0.2946971835771383
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.1606309234429109,
+      "generated_length": 1.1386460960320894,
+      "order": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.1606309234429109,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 48,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.1672061362113901,
+        null,
+        null,
+        0.9939331826121788
+      ],
+      "contact_episode_counts": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.8941279151435986,
+      "generated_length": 1.8869411613760834,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 49,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.7482814418034667,
+        0.9838417588920795,
+        0.3049880985641667,
+        0.5671490448277279
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.303484291308009,
+      "generated_length": 1.2979317880410057,
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.303484291308009,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 50,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.2038220534441252,
+        null,
+        0.982442458190346,
+        0.29319636305657826
+      ],
+      "contact_episode_counts": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.466687032877135,
+      "generated_length": 1.4242034020566048,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 51,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        null,
+        null,
+        0.1793134155284211
+      ],
+      "contact_episode_counts": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3908664483689497,
+      "generated_length": 1.2813055717887338,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 52,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.7299500270371501,
+        0.5660280007406205,
+        0.2608766379810885,
+        0.9972648232046089
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3061525851081361,
+      "generated_length": 1.2958502625468764,
+      "order": [
+        2,
+        1,
+        0,
+        3
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.3061525851081361,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 53,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.511013168656015,
+        null,
+        0.9659814378288967,
+        0.27399304791986356
+      ],
+      "contact_episode_counts": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.1744723017243162,
+      "generated_length": 1.1147969199311936,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 54,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.25890635196854,
+        0.4616749096815176,
+        0.6046932732698084,
+        0.9759526625342628
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 0.969216767331615,
+      "generated_length": 0.959519087527383,
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "ambiguous_order": false,
+      "order_length": 0.969216767331615,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 55,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.7562990748293228,
+        0.14691945258692057,
+        0.984562088398813,
+        0.3192027867977068
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.376381445961392,
+      "generated_length": 1.3588662111485514,
+      "order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.376381445961392,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 56,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        0.7166085908960664,
+        null,
+        0.20813231065878784
+      ],
+      "contact_episode_counts": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.1643196215884655,
+      "generated_length": 1.1322130592470354,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 57,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.9823868990655136,
+        0.6096649079596798,
+        0.3760254547098934,
+        0.2225257943054803
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3343777527629963,
+      "generated_length": 1.343882343181552,
+      "order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.3343777527629963,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 58,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.5191945750790268,
+        0.9799756035763771,
+        0.6183163364208845,
+        0.2812600602910846
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.5105893554083818,
+      "generated_length": 1.5102310470170486,
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.5105893554083818,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 59,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.42355815098015687,
+        0.6601149428188918,
+        0.211995887974352,
+        0.9937539541952899
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3804804337729106,
+      "generated_length": 1.3633945745254294,
+      "order": [
+        2,
+        0,
+        1,
+        3
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.3804804337729106,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 60,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.46269225600227665,
+        0.6919710943014803,
+        0.9856836714379615,
+        0.34453454841407394
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.2053439160840107,
+      "generated_length": 1.1918186795505568,
+      "order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.2053439160840107,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 61,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.6214246067948638,
+        0.15120946300181706,
+        0.37566485854676757,
+        0.98252114916176
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.506553296769661,
+      "generated_length": 1.5009981700946287,
+      "order": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.506553296769661,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 62,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        0.24417119337129636,
+        0.13225343728001723,
+        null
+      ],
+      "contact_episode_counts": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.4776105351065607,
+      "generated_length": 1.2502634158856172,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 63,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.5145875905316791,
+        0.8084282082902445,
+        0.9874976510283294,
+        0.32742504868933986
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.0345596764651979,
+      "generated_length": 1.0322985762663959,
+      "order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.0345596764651979,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 64,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.11693013844676947,
+        0.28198528841816184,
+        0.9334220161446554,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.4447381075618562,
+      "generated_length": 1.2808105495996345,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 65,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.4174855542228327,
+        0.9921116506966268,
+        0.19828765424448722,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.0650684266792327,
+      "generated_length": 1.0430237138245144,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 66,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.5916323254792123,
+        0.9734085454519691,
+        0.27316442908380106,
+        0.7720263269549933
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.1452074301141775,
+      "generated_length": 1.139413719966903,
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.1452074301141775,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 67,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.6725798900184593,
+        null,
+        null,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3605792211294405,
+      "generated_length": 1.239018332154974,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 68,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.20006019478498463,
+        0.988874099779134,
+        0.5200156564446534,
+        0.7214188491598753
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.501220276200689,
+      "generated_length": 1.5386962518819547,
+      "order": [
+        0,
+        2,
+        3,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.501220276200689,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 69,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.3314408307193821,
+        0.5964310705540561,
+        0.9861256727566402,
+        0.7935535342708845
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.1062247654605821,
+      "generated_length": 1.1186726139369905,
+      "order": [
+        0,
+        1,
+        3,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.1062247654605821,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 70,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        0.8257479937243257,
+        0.9821415206894576,
+        0.3014938585908425
+      ],
+      "contact_episode_counts": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.1343687628814676,
+      "generated_length": 1.0856846748533577,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 71,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.9872940799554812,
+        0.33961432888575954,
+        0.4869350805077636,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.1668015862916337,
+      "generated_length": 1.1180459133756182,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 72,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.40080332202166585,
+        0.9815846504762492,
+        null,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.4880886591418279,
+      "generated_length": 1.2929278272760307,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 73,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.7687499736217595,
+        0.9947765616492684,
+        0.2556609222874741,
+        0.5873774512150635
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.5220954487567429,
+      "generated_length": 1.4929994464539726,
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.5220954487567429,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 74,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.9087913164183561,
+        null,
+        null,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.5703073585820047,
+      "generated_length": 1.5730686284471156,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 75,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.5456540559985416,
+        0.9985289919367658,
+        0.41031136170135185,
+        0.16972061645261582
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.0639494854080116,
+      "generated_length": 1.0778749736907498,
+      "order": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.0639494854080116,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 76,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        null,
+        0.41313350820642775,
+        0.24709311084337662
+      ],
+      "contact_episode_counts": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.2400031026853764,
+      "generated_length": 1.2716853797027259,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 77,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.6818914897835403,
+        0.15240832251858286,
+        0.9785840269803859,
+        0.4516316104040172
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.6549211506084447,
+      "generated_length": 1.6656298061846377,
+      "order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.6549211506084447,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 78,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.11412095949171716,
+        0.7119625112657387,
+        0.9937739146340683,
+        0.29346806184638585
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.2496821091462718,
+      "generated_length": 1.2524940375880338,
+      "order": [
+        0,
+        3,
+        1,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.2496821091462718,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 79,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.7026888506847484,
+        0.1683173037309745,
+        0.9886377965475364,
+        0.49044620768455394
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.6221366307222713,
+      "generated_length": 1.5910521640582602,
+      "order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.6221366307222713,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 80,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.9826586843300288,
+        0.738696339381782,
+        0.2559614283036135,
+        0.5746193093258068
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.2101089978938249,
+      "generated_length": 1.202948546784228,
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.2101089978938249,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 81,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.31730254229966337,
+        0.9929024010695501,
+        0.1348203566898087,
+        0.6840007502644009
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.5440588610419335,
+      "generated_length": 1.5460842725341901,
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.5440588610419335,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 82,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.978337294680817,
+        0.4840580118073431,
+        0.8148079948326614,
+        0.21148738528923944
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.2036407919959542,
+      "generated_length": 1.213322483501838,
+      "order": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.2036407919959542,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 83,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.8579711646123621,
+        0.9845445416995342,
+        0.5024312591484024,
+        0.2928932238209334
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3105193316333126,
+      "generated_length": 1.311781407730236,
+      "order": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.3105193316333126,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 84,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.9688268125522862,
+        0.5052658456019173,
+        0.299225966362531,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.0314029097781816,
+      "generated_length": 1.0344209164635167,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 85,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.9806137567083699,
+        0.34400584932037376,
+        0.4580805778290272,
+        0.7346876514034271
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.1697433213492017,
+      "generated_length": 1.1659514924829062,
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.1697433213492017,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 86,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.9830745541879421,
+        0.28232026786549297,
+        0.48356937868432986,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.1915725651156193,
+      "generated_length": 1.163510089511954,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 87,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.5435595493195381,
+        0.25103682359849744,
+        null,
+        0.965489470371945
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.489849306190865,
+      "generated_length": 1.4521095101984147,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 88,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.9803081198096518,
+        0.17848097925075682,
+        0.5439728490041038,
+        0.4088555239500802
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.0108177916398318,
+      "generated_length": 1.0051658518236484,
+      "order": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.0108177916398318,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 89,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.13238263720833626,
+        0.7853432098282491,
+        0.5983426408313143,
+        0.9872588900152951
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3707315160912175,
+      "generated_length": 1.337998995695369,
+      "order": [
+        0,
+        2,
+        1,
+        3
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.3707315160912175,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 90,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.9920029193058595,
+        0.6250737251393317,
+        0.2792733753059037,
+        null
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3687486507402131,
+      "generated_length": 1.3705923749037838,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 91,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.7855080043388564,
+        0.9922967365892948,
+        0.2881908517512573,
+        0.5211542172393184
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3427073755022754,
+      "generated_length": 1.3336448798716103,
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.3427073755022754,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 92,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        0.16840051478908735,
+        0.9869065299366382,
+        null
+      ],
+      "contact_episode_counts": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.6532168661016122,
+      "generated_length": 1.605361315767169,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 93,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        0.9779913298970546,
+        null,
+        0.1973381981218278
+      ],
+      "contact_episode_counts": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 0.9225562481048271,
+      "generated_length": 0.7810346712009159,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 94,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.3894523355588603,
+        null,
+        0.236969262849758,
+        0.961323142562241
+      ],
+      "contact_episode_counts": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3533321980381174,
+      "generated_length": 1.3259276465206038,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 95,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.7929346554360786,
+        0.9842648495608314,
+        0.3157375039423071,
+        0.598062344136372
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3036941780833669,
+      "generated_length": 1.291223936689295,
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 1.3036941780833669,
+      "order_gap": 0.0,
+      "optimal_order": true
+    },
+    {
+      "evaluation_row": 96,
+      "complete_at_radius": false,
+      "first_entries": [
+        0.9774733336633259,
+        0.3336772699864579,
+        null,
+        0.47945278128388985
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.2419849489704808,
+      "generated_length": 1.2000739915389371,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 97,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        0.5622710039364893,
+        0.18206207033048594,
+        null
+      ],
+      "contact_episode_counts": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.3172167000216493,
+      "generated_length": 1.3704815218264617,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 98,
+      "complete_at_radius": false,
+      "first_entries": [
+        null,
+        0.17476916365862222,
+        null,
+        null
+      ],
+      "contact_episode_counts": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "has_reentry": false,
+      "optimal_length": 1.0801216824299793,
+      "generated_length": 0.9298123011654331,
+      "order": null,
+      "ambiguous_order": false,
+      "order_length": null,
+      "order_gap": null,
+      "optimal_order": null
+    },
+    {
+      "evaluation_row": 99,
+      "complete_at_radius": true,
+      "first_entries": [
+        0.772411619391459,
+        0.9725029439772991,
+        0.26874175560630964,
+        0.5398358930482234
+      ],
+      "contact_episode_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "has_reentry": false,
+      "optimal_length": 0.962020043440804,
+      "generated_length": 0.9540444521721596,
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "ambiguous_order": false,
+      "order_length": 0.962020043440804,
+      "order_gap": 0.0,
+      "optimal_order": true
+    }
+  ]
+}
