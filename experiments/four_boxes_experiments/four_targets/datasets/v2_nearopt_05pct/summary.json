@@ -1,0 +1,10 @@
+{
+  "num_layouts": 10000,
+  "total_retained_routes": 16302,
+  "layouts_with_one_route": 5694,
+  "layouts_with_multiple_routes": 4306,
+  "multiple_route_layout_percent": 43.059999999999995,
+  "mean_routes_per_layout": 1.6302,
+  "max_routes_per_layout": 7,
+  "maximum_retained_relative_gap": 0.04998676152447363
+}

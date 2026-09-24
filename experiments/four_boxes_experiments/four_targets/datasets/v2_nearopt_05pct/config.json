@@ -1,0 +1,50 @@
+{
+  "builder_version": "four_target_multiroute_v1",
+  "source_train_relative_path": "experiments/four_boxes_experiments/four_targets/datasets/v1/train.npz",
+  "source_train_sha256": "0fb20f206750157be80ac9281378f07c684a1d6d538d9c035114e78dfb3e70fa",
+  "relative_slack": 0.05,
+  "boundary_atol": 1e-12,
+  "num_layouts": 10000,
+  "total_retained_routes": 16302,
+  "task": "fixed-start open path through four targets, no return",
+  "enumeration": "all 24 permutations; target IDs unchanged",
+  "parameterization": "each route has its own normalized cumulative arc length",
+  "sampling": "uniform layout, then uniform retained route within layout",
+  "original_fields": [
+    "conditions",
+    "knot_tau",
+    "lengths",
+    "orders",
+    "routes",
+    "starts",
+    "targets"
+  ],
+  "new_fields": [
+    "all_route_lengths",
+    "exact_min_lengths",
+    "mode_knot_tau",
+    "mode_layout_indices",
+    "mode_lengths",
+    "mode_offsets",
+    "mode_orders",
+    "mode_permutation_indices",
+    "mode_relative_gaps",
+    "mode_routes",
+    "num_modes",
+    "route_permutations",
+    "second_relative_gap"
+  ],
+  "sampler_sha256": "8699749976b035a553a57366822f5f08dfa731a95ef11e5329935af3eb1de04e",
+  "numpy_version": "2.2.6",
+  "artifact_sha256": {
+    "README.md": "031f1939ff6a1c77547ece8597d3eb8570e92bd8660218a300df96d5671bcaed",
+    "route_count_summary.csv": "3efb2431075c6a3d74fd07ae4a2f0e563d80f4b3b92c24229f03df01383cc722",
+    "per_layout_route_counts.csv": "a5d75097b32106125ae25cdc6878e52b19261986eec0dec33030b9dab5df08bc",
+    "illustrated_routes.csv": "d03d360dc94e04990b56428b820946018e0473bd3ffe8e5ce619dd3c1fe164ac",
+    "train.npz": "b25e5a98f855e887996971505941c975583fcbfa6196a8c4eb032aa67add66a5",
+    "summary.json": "af136d9ec99aefc09d2fe05bb39fde6014a7bd028c57ced6bf380fa52cc483ea",
+    "nearoptimal_route_examples.png": "8ba0b8b737d5b0718fed11c1c3d360ed31ad9d4b030a75c0501689fee95ede6f",
+    "route_count_distribution.png": "c8c9876b273069c1a3a004bf8b3457b02857222853868e62f10ba7fd704e6cdb",
+    "multiroute_sampler.py": "8699749976b035a553a57366822f5f08dfa731a95ef11e5329935af3eb1de04e"
+  }
+}

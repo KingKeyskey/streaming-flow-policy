@@ -1,0 +1,29 @@
+{
+  "analysis_version": "four_circle_coverage_v1",
+  "dataset_sha256": {
+    "train.npz": "0fb20f206750157be80ac9281378f07c684a1d6d538d9c035114e78dfb3e70fa",
+    "validation.npz": "2eb47a32c8c8b24f1d0babe87fa7fbd87826196051281cd73fc464eab88268e7"
+  },
+  "checkpoint_sha256": "11891ea74532258cd32423e77c48b6dbb9a0662560cf2a5492c8ca2cc8acd38d",
+  "checkpoint_relative_path": "experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_4/best.pt",
+  "training_budget": 10000,
+  "training_seed": 4,
+  "selected_epoch": 7834,
+  "visit_tolerance": 0.02,
+  "radii": [
+    0.02,
+    0.05,
+    0.1,
+    0.15,
+    0.2
+  ],
+  "display_radius": 0.1,
+  "eval_steps": 1000,
+  "num_training_layouts": 10000,
+  "num_validation_layouts": 1000,
+  "start_mode": "exact_fixed_start",
+  "matching": "minimum_maximum_distance_over_24_permutations",
+  "evaluation_dtype": "float64",
+  "device": "cuda",
+  "torch_version": "2.7.1+cu126"
+}

@@ -4,71 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="1">
-      <change beforePath="$PROJECT_DIR$/.idea/streaming-flow-policy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/streaming-flow-policy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_shortest_paths_seed_sweep_20000.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_shortest_paths_seed_sweep_5000_10000.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_10000epochs_v1_seed0/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_10000epochs_v1_seed0/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_10000epochs_v1_seed0/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_10000epochs_v1_seed0/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_5000epochs_v1_seed0/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_5000epochs_v1_seed0/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_5000epochs_v1_seed0/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_5000epochs_v1_seed0/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_1/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_1/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_1/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_1/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_1/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_1/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_1/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_1/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_2/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_2/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_2/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_2/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_2/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_2/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_2/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_2/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_3/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_3/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_3/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_3/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_3/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_3/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_3/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_3/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_4/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_4/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_4/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_4/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_4/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_4/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_4/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_10000_seed_4/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_1/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_1/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_1/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_1/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_1/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_1/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_1/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_1/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_2/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_2/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_2/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_2/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_2/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_2/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_2/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_2/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_3/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_3/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_3/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_3/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_3/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_3/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_3/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_3/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_4/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_4/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_4/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_4/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_4/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_4/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_4/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/budget_5000_seed_4/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/seed_sensitivity_success.png" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/seed_sensitivity_success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/seed_sweep_summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep/seed_sweep_summary.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_0/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_0/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_0/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_0/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_0/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_0/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_0/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_0/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_1/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_1/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_1/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_1/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_1/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_1/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_1/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_1/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_2/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_2/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_2/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_2/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_2/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_2/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_2/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_2/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_3/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_3/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_3/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_3/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_3/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_3/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_3/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_3/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_4/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_4/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_4/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_4/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_4/training_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_4/training_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_4/validation_evaluation_rollouts.npz" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/budget_20000_seed_4/validation_evaluation_rollouts.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/seed_sweep_summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_seed_sweep_20000/seed_sweep_summary.json" afterDir="false" />
-    </list>
+    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="experiment on how to improve performance" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,61 +40,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0000005106129126" />
-      <entry key="S60" value="1.0007147568981554" />
-      <entry key="M2" value="1.0276027549595845" />
-      <entry key="M5" value="1.4475834271805232" />
-      <entry key="M10" value="3.6828352034488447" />
-      <entry key="M15" value="6.820455746060985" />
-      <entry key="M30" value="14.585083993250171" />
-      <entry key="H1" value="23.007011970433844" />
-      <entry key="H2" value="31.50011564274271" />
-      <entry key="H4" value="39.30554654294504" />
-      <entry key="D1" value="50.087982012995774" />
-      <entry key="W1" value="52.56439237855347" />
+      <entry key="MS100" value="1.0191884734502488" />
+      <entry key="MS500" value="1.7106907395163802" />
+      <entry key="S2" value="3.9957398010822502" />
+      <entry key="S5" value="6.269156518244024" />
+      <entry key="S10" value="7.751380762372498" />
+      <entry key="S30" value="9.139195950854287" />
+      <entry key="S60" value="9.554259217427585" />
+      <entry key="M2" value="9.79887560307538" />
+      <entry key="M5" value="10.346648267587579" />
+      <entry key="M10" value="12.609675802092275" />
+      <entry key="M15" value="15.750526403049921" />
+      <entry key="M30" value="23.52393053357473" />
+      <entry key="H1" value="31.962224666140028" />
+      <entry key="H2" value="40.47055677465498" />
+      <entry key="H4" value="48.287475021128834" />
+      <entry key="D1" value="59.08421218903934" />
+      <entry key="W1" value="61.563828965644205" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="6.859184513523658E-222" />
-      <entry key="MS500" value="5.851328723145654E-45" />
-      <entry key="S2" value="8.746083600426867E-12" />
-      <entry key="S5" value="3.7733357450660555E-5" />
-      <entry key="S10" value="0.006142748362961041" />
-      <entry key="S30" value="0.18314184075255235" />
-      <entry key="S60" value="0.4279507457086065" />
-      <entry key="M2" value="0.6541794445781727" />
-      <entry key="M5" value="0.8438762367769956" />
-      <entry key="M10" value="0.9186273655715878" />
-      <entry key="M15" value="0.9449879105148777" />
-      <entry key="M30" value="0.9721048865811126" />
-      <entry key="H1" value="0.9859537953581358" />
-      <entry key="H2" value="0.9929520609566888" />
-      <entry key="H4" value="0.9964697993199235" />
-      <entry key="D1" value="0.9994107659095867" />
-      <entry key="W1" value="0.9999158024366648" />
+      <entry key="MS100" value="3.0066720837884175E-248" />
+      <entry key="MS500" value="3.13052526453939E-50" />
+      <entry key="S2" value="4.206339315371082E-13" />
+      <entry key="S5" value="1.1208867136217574E-5" />
+      <entry key="S10" value="0.003347964625891015" />
+      <entry key="S30" value="0.14959840169067182" />
+      <entry key="S60" value="0.38677952594555975" />
+      <entry key="M2" value="0.6219160119707157" />
+      <entry key="M5" value="0.8269755990799041" />
+      <entry key="M10" value="0.9093819874397692" />
+      <entry key="M15" value="0.938636774169514" />
+      <entry key="M30" value="0.9688326863651505" />
+      <entry key="H1" value="0.9842929880707018" />
+      <entry key="H2" value="0.9921154106608273" />
+      <entry key="H4" value="0.9960499037000239" />
+      <entry key="D1" value="0.9993405644338967" />
+      <entry key="W1" value="0.9999057682844631" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9460576467255959" />
-      <entry key="MS500" value="0.9889709163809315" />
-      <entry key="S2" value="0.9972312513569571" />
-      <entry key="S5" value="0.9989214770874166" />
-      <entry key="S10" value="1.0049135262175863" />
-      <entry key="S30" value="1.1759889235124452" />
-      <entry key="S60" value="1.420352246814077" />
-      <entry key="M2" value="1.6754208036210136" />
-      <entry key="M5" value="2.288130316581423" />
-      <entry key="M10" value="4.599495908958807" />
-      <entry key="M15" value="7.763949921674469" />
-      <entry key="M30" value="15.556231628737994" />
-      <entry key="H1" value="23.992324829139914" />
-      <entry key="H2" value="32.49258927314623" />
-      <entry key="H4" value="40.30167231019247" />
-      <entry key="D1" value="51.087306283879904" />
-      <entry key="W1" value="53.56429479098319" />
+      <entry key="MS100" value="0.9776698753512219" />
+      <entry key="MS500" value="1.6962174505942453" />
+      <entry key="S2" value="3.9866781982647264" />
+      <entry key="S5" value="6.262426344462712" />
+      <entry key="S10" value="7.7497642800900755" />
+      <entry key="S30" value="9.281154030346581" />
+      <entry key="S60" value="9.932570277832456" />
+      <entry key="M2" value="10.41425139386034" />
+      <entry key="M5" value="11.17016042690797" />
+      <entry key="M10" value="13.517009902001103" />
+      <entry key="M15" value="16.68761199241795" />
+      <entry key="M30" value="24.491775375282028" />
+      <entry key="H1" value="32.94586087146866" />
+      <entry key="H2" value="41.462185690553305" />
+      <entry key="H4" value="49.2831768029438" />
+      <entry key="D1" value="60.08346555857124" />
+      <entry key="W1" value="62.563721243201975" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -239,7 +175,7 @@
       <workItem from="1789688633940" duration="8486000" />
       <workItem from="1789857988989" duration="3172000" />
       <workItem from="1790281917184" duration="1624000" />
-      <workItem from="1790283626408" duration="4661000" />
+      <workItem from="1790283626408" duration="5309000" />
     </task>
     <task id="LOCAL-00001" summary="Experiments of four boxes on 50 200 1000 2000 5000 epoches">
       <option name="closed" value="true" />
@@ -273,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789614671116</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="experiment on how to improve performance">
+      <option name="closed" value="true" />
+      <created>1790290699863</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1790290699863</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +249,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Experiments of four boxes on 50 200 1000 2000 5000 epoches" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="experiment on how to improve performance" />
+    <option name="LAST_COMMIT_MESSAGE" value="experiment on how to improve performance" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/four_target_shortest_paths_5000_epochs_ipynb$1.coverage" NAME="1 覆盖结果" MODIFIED="1789437806415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiments/four_boxes_experiments" />
