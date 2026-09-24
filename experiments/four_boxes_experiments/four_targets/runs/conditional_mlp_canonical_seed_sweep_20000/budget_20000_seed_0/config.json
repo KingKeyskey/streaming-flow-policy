@@ -12,12 +12,10 @@
   "sigma_0": 0.05,
   "stabilizing_gain": 2.5,
   "dataset_sha256": {
-    "config.json": "795d064b789f203ec213b55f9db0b746c2af3427b08b473cfca9e2ab7cf92949",
     "train.npz": "0fb20f206750157be80ac9281378f07c684a1d6d538d9c035114e78dfb3e70fa",
     "validation.npz": "2eb47a32c8c8b24f1d0babe87fa7fbd87826196051281cd73fc464eab88268e7"
   },
   "experiment": "full_dataset_canonical_budget_20000_seed_0",
-  "dataset_dir": "/home/u7779895/PycharmProjects/streaming-flow-policy/experiments/four_boxes_experiments/four_targets/datasets/v1",
   "training_seed": 0,
   "train_sampling_seed": 1000,
   "num_epochs": 20000

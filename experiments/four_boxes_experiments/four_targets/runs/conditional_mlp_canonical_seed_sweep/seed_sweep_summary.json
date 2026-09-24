@@ -10,7 +10,7 @@
     3,
     4
   ],
-  "visit_tolerance": 0.02,
+  "visit_tolerance": 0.05,
   "ode_steps": 1000,
   "train_indices": [
     3675,
@@ -221,35 +221,35 @@
       "selected_epoch": 3625,
       "validation_loss": 0.03231326097249985,
       "Training": {
-        "all_visited_rate": 0.71,
-        "mean_visited": 3.54,
+        "all_visited_rate": 0.91,
+        "mean_visited": 3.87,
         "mean_worst_distance": 0.024919681673427493,
         "visit_count_histogram": [
-          1,
-          3,
-          8,
-          17,
-          71
+          0,
+          0,
+          4,
+          5,
+          91
         ],
-        "expert_rmse": 0.11557985281943603,
-        "rollout_rmse": 0.17569376343558216,
-        "expert_reference_rms": 0.9417000799516274,
+        "expert_rmse": 0.115579852819436,
+        "rollout_rmse": 0.17569376343558218,
+        "expert_reference_rms": 0.9417000799516273,
         "rollout_reference_rms": 0.9451814477651326
       },
       "Validation": {
-        "all_visited_rate": 0.66,
-        "mean_visited": 3.49,
+        "all_visited_rate": 0.87,
+        "mean_visited": 3.82,
         "mean_worst_distance": 0.036883939485028154,
         "visit_count_histogram": [
           0,
-          4,
+          1,
+          3,
           9,
-          21,
-          66
+          87
         ],
-        "expert_rmse": 0.163917467647551,
-        "rollout_rmse": 0.3709107954142747,
-        "expert_reference_rms": 0.9366738698296385,
+        "expert_rmse": 0.1639174676475509,
+        "rollout_rmse": 0.37091079541427474,
+        "expert_reference_rms": 0.9366738698296384,
         "rollout_reference_rms": 0.949743606240036
       }
     },
@@ -257,71 +257,71 @@
       "selected_epoch": 3603,
       "validation_loss": 0.030861298954486846,
       "Training": {
-        "all_visited_rate": 0.66,
-        "mean_visited": 3.49,
+        "all_visited_rate": 0.94,
+        "mean_visited": 3.93,
         "mean_worst_distance": 0.022450576998276028,
         "visit_count_histogram": [
+          0,
+          0,
           1,
-          2,
-          10,
-          21,
-          66
+          5,
+          94
         ],
-        "expert_rmse": 0.11535336253486976,
+        "expert_rmse": 0.11535336253486979,
         "rollout_rmse": 0.1661829025359636,
-        "expert_reference_rms": 0.9417000799516274,
+        "expert_reference_rms": 0.9417000799516273,
         "rollout_reference_rms": 0.9428364963784039
       },
       "Validation": {
-        "all_visited_rate": 0.63,
-        "mean_visited": 3.47,
+        "all_visited_rate": 0.84,
+        "mean_visited": 3.77,
         "mean_worst_distance": 0.04202182243674711,
         "visit_count_histogram": [
           0,
-          4,
-          8,
-          25,
-          63
+          1,
+          5,
+          10,
+          84
         ],
-        "expert_rmse": 0.16072468023506162,
+        "expert_rmse": 0.16072468023506165,
         "rollout_rmse": 0.3640273086394069,
-        "expert_reference_rms": 0.9366738698296385,
-        "rollout_reference_rms": 0.9502765487581629
+        "expert_reference_rms": 0.9366738698296384,
+        "rollout_reference_rms": 0.9502765487581628
       }
     },
     "5000_seed_2": {
       "selected_epoch": 3749,
       "validation_loss": 0.031892902874946595,
       "Training": {
-        "all_visited_rate": 0.68,
-        "mean_visited": 3.54,
+        "all_visited_rate": 0.94,
+        "mean_visited": 3.94,
         "mean_worst_distance": 0.02035824750629281,
         "visit_count_histogram": [
-          1,
-          2,
-          7,
-          22,
-          68
+          0,
+          0,
+          0,
+          6,
+          94
         ],
-        "expert_rmse": 0.11088625411503689,
+        "expert_rmse": 0.11088625411503691,
         "rollout_rmse": 0.15187448972862588,
-        "expert_reference_rms": 0.9417000799516274,
-        "rollout_reference_rms": 0.941783793388765
+        "expert_reference_rms": 0.9417000799516273,
+        "rollout_reference_rms": 0.9417837933887648
       },
       "Validation": {
-        "all_visited_rate": 0.64,
-        "mean_visited": 3.47,
+        "all_visited_rate": 0.85,
+        "mean_visited": 3.83,
         "mean_worst_distance": 0.03727122778517884,
         "visit_count_histogram": [
           0,
-          3,
-          11,
-          22,
-          64
+          0,
+          2,
+          13,
+          85
         ],
-        "expert_rmse": 0.15609662578813668,
-        "rollout_rmse": 0.35941168851366045,
-        "expert_reference_rms": 0.9366738698296385,
+        "expert_rmse": 0.15609662578813666,
+        "rollout_rmse": 0.3594116885136605,
+        "expert_reference_rms": 0.9366738698296384,
         "rollout_reference_rms": 0.9512897921854812
       }
     },
@@ -329,35 +329,35 @@
       "selected_epoch": 3956,
       "validation_loss": 0.03019009392261505,
       "Training": {
-        "all_visited_rate": 0.73,
-        "mean_visited": 3.59,
+        "all_visited_rate": 0.93,
+        "mean_visited": 3.91,
         "mean_worst_distance": 0.019062683073407492,
         "visit_count_histogram": [
           0,
-          4,
+          1,
+          0,
           6,
-          17,
-          73
+          93
         ],
-        "expert_rmse": 0.10976310929937778,
+        "expert_rmse": 0.10976310929937777,
         "rollout_rmse": 0.1547277261213824,
-        "expert_reference_rms": 0.9417000799516274,
-        "rollout_reference_rms": 0.9425457242870606
+        "expert_reference_rms": 0.9417000799516273,
+        "rollout_reference_rms": 0.9425457242870605
       },
       "Validation": {
-        "all_visited_rate": 0.58,
-        "mean_visited": 3.3,
+        "all_visited_rate": 0.83,
+        "mean_visited": 3.78,
         "mean_worst_distance": 0.037379014987617615,
         "visit_count_histogram": [
+          0,
           1,
-          6,
+          3,
           13,
-          22,
-          58
+          83
         ],
-        "expert_rmse": 0.14716978740872155,
+        "expert_rmse": 0.14716978740872153,
         "rollout_rmse": 0.3413049760167378,
-        "expert_reference_rms": 0.9366738698296385,
+        "expert_reference_rms": 0.9366738698296384,
         "rollout_reference_rms": 0.9497136322124611
       }
     },
@@ -365,35 +365,35 @@
       "selected_epoch": 3006,
       "validation_loss": 0.033929855412244796,
       "Training": {
-        "all_visited_rate": 0.68,
-        "mean_visited": 3.6,
+        "all_visited_rate": 0.95,
+        "mean_visited": 3.95,
         "mean_worst_distance": 0.019894047244734682,
         "visit_count_histogram": [
           0,
-          1,
-          6,
-          25,
-          68
+          0,
+          0,
+          5,
+          95
         ],
-        "expert_rmse": 0.11959430375739243,
+        "expert_rmse": 0.11959430375739244,
         "rollout_rmse": 0.2387697893872247,
-        "expert_reference_rms": 0.9417000799516274,
+        "expert_reference_rms": 0.9417000799516273,
         "rollout_reference_rms": 0.9446203975158552
       },
       "Validation": {
-        "all_visited_rate": 0.58,
-        "mean_visited": 3.38,
+        "all_visited_rate": 0.83,
+        "mean_visited": 3.81,
         "mean_worst_distance": 0.04920841372576267,
         "visit_count_histogram": [
           0,
-          4,
-          12,
-          26,
-          58
+          0,
+          2,
+          15,
+          83
         ],
-        "expert_rmse": 0.1769236440535331,
-        "rollout_rmse": 0.43625967537916294,
-        "expert_reference_rms": 0.9366738698296385,
+        "expert_rmse": 0.17692364405353317,
+        "rollout_rmse": 0.436259675379163,
+        "expert_reference_rms": 0.9366738698296384,
         "rollout_reference_rms": 0.961071758388782
       }
     },
@@ -401,107 +401,107 @@
       "selected_epoch": 4489,
       "validation_loss": 0.0299155402392149,
       "Training": {
-        "all_visited_rate": 0.73,
-        "mean_visited": 3.61,
+        "all_visited_rate": 0.94,
+        "mean_visited": 3.91,
         "mean_worst_distance": 0.023624788801294754,
         "visit_count_histogram": [
           1,
-          2,
+          0,
+          0,
           5,
-          19,
-          73
+          94
         ],
-        "expert_rmse": 0.11318228629563946,
+        "expert_rmse": 0.11318228629563945,
         "rollout_rmse": 0.1812238136537932,
-        "expert_reference_rms": 0.9417000799516274,
+        "expert_reference_rms": 0.9417000799516273,
         "rollout_reference_rms": 0.9457265541805566
       },
       "Validation": {
-        "all_visited_rate": 0.59,
-        "mean_visited": 3.38,
+        "all_visited_rate": 0.87,
+        "mean_visited": 3.83,
         "mean_worst_distance": 0.03716142846210674,
         "visit_count_histogram": [
           0,
-          6,
+          0,
+          4,
           9,
-          26,
-          59
+          87
         ],
-        "expert_rmse": 0.15410235514290513,
+        "expert_rmse": 0.15410235514290516,
         "rollout_rmse": 0.3449182487306821,
-        "expert_reference_rms": 0.9366738698296385,
-        "rollout_reference_rms": 0.9476688656002069
+        "expert_reference_rms": 0.9366738698296384,
+        "rollout_reference_rms": 0.9476688656002068
       }
     },
     "10000_seed_1": {
       "selected_epoch": 4133,
       "validation_loss": 0.030941862043738364,
       "Training": {
-        "all_visited_rate": 0.6,
-        "mean_visited": 3.43,
+        "all_visited_rate": 0.93,
+        "mean_visited": 3.91,
         "mean_worst_distance": 0.024430168316308773,
         "visit_count_histogram": [
           0,
-          2,
-          13,
-          25,
-          60
+          1,
+          0,
+          6,
+          93
         ],
-        "expert_rmse": 0.11584310757408303,
-        "rollout_rmse": 0.17240190233298547,
-        "expert_reference_rms": 0.9417000799516274,
-        "rollout_reference_rms": 0.9405975666351124
+        "expert_rmse": 0.11584310757408298,
+        "rollout_rmse": 0.1724019023329855,
+        "expert_reference_rms": 0.9417000799516273,
+        "rollout_reference_rms": 0.9405975666351125
       },
       "Validation": {
-        "all_visited_rate": 0.61,
-        "mean_visited": 3.37,
+        "all_visited_rate": 0.84,
+        "mean_visited": 3.79,
         "mean_worst_distance": 0.04311755447297345,
         "visit_count_histogram": [
           0,
-          7,
-          10,
-          22,
-          61
+          0,
+          5,
+          11,
+          84
         ],
-        "expert_rmse": 0.15850391214467324,
-        "rollout_rmse": 0.3222939506358085,
-        "expert_reference_rms": 0.9366738698296385,
-        "rollout_reference_rms": 0.9442093339007321
+        "expert_rmse": 0.1585039121446732,
+        "rollout_rmse": 0.32229395063580857,
+        "expert_reference_rms": 0.9366738698296384,
+        "rollout_reference_rms": 0.9442093339007323
       }
     },
     "10000_seed_2": {
       "selected_epoch": 7639,
       "validation_loss": 0.031198739314079283,
       "Training": {
-        "all_visited_rate": 0.77,
-        "mean_visited": 3.67,
+        "all_visited_rate": 0.98,
+        "mean_visited": 3.98,
         "mean_worst_distance": 0.015011365813778883,
         "visit_count_histogram": [
           0,
+          0,
+          0,
           2,
-          6,
-          15,
-          77
+          98
         ],
-        "expert_rmse": 0.09954221997051192,
-        "rollout_rmse": 0.10724153653297046,
-        "expert_reference_rms": 0.9417000799516274,
+        "expert_rmse": 0.0995422199705119,
+        "rollout_rmse": 0.10724153653297042,
+        "expert_reference_rms": 0.9417000799516273,
         "rollout_reference_rms": 0.9400213445101566
       },
       "Validation": {
-        "all_visited_rate": 0.65,
-        "mean_visited": 3.43,
+        "all_visited_rate": 0.81,
+        "mean_visited": 3.79,
         "mean_worst_distance": 0.03731724097145105,
         "visit_count_histogram": [
-          1,
-          3,
-          13,
-          18,
-          65
+          0,
+          0,
+          2,
+          17,
+          81
         ],
         "expert_rmse": 0.14624804510849107,
         "rollout_rmse": 0.28607463632774566,
-        "expert_reference_rms": 0.9366738698296385,
+        "expert_reference_rms": 0.9366738698296384,
         "rollout_reference_rms": 0.942624338362181
       }
     },
@@ -509,35 +509,35 @@
       "selected_epoch": 5782,
       "validation_loss": 0.0311968704611063,
       "Training": {
-        "all_visited_rate": 0.74,
-        "mean_visited": 3.63,
+        "all_visited_rate": 0.94,
+        "mean_visited": 3.94,
         "mean_worst_distance": 0.01995036516598502,
         "visit_count_histogram": [
-          1,
-          1,
+          0,
+          0,
+          0,
           6,
-          18,
-          74
+          94
         ],
-        "expert_rmse": 0.10533214494977332,
+        "expert_rmse": 0.10533214494977333,
         "rollout_rmse": 0.12859785939795176,
-        "expert_reference_rms": 0.9417000799516274,
-        "rollout_reference_rms": 0.93951382809721
+        "expert_reference_rms": 0.9417000799516273,
+        "rollout_reference_rms": 0.9395138280972101
       },
       "Validation": {
-        "all_visited_rate": 0.63,
-        "mean_visited": 3.45,
+        "all_visited_rate": 0.9,
+        "mean_visited": 3.85,
         "mean_worst_distance": 0.03480742996039482,
         "visit_count_histogram": [
           0,
-          4,
-          10,
-          23,
-          63
+          0,
+          5,
+          5,
+          90
         ],
-        "expert_rmse": 0.15375718229307772,
+        "expert_rmse": 0.1537571822930777,
         "rollout_rmse": 0.398995933067733,
-        "expert_reference_rms": 0.9366738698296385,
+        "expert_reference_rms": 0.9366738698296384,
         "rollout_reference_rms": 0.9537444991378988
       }
     },
@@ -545,48 +545,48 @@
       "selected_epoch": 7834,
       "validation_loss": 0.029997283896803856,
       "Training": {
-        "all_visited_rate": 0.77,
-        "mean_visited": 3.65,
+        "all_visited_rate": 0.98,
+        "mean_visited": 3.98,
         "mean_worst_distance": 0.01465915839922896,
         "visit_count_histogram": [
-          1,
+          0,
+          0,
+          0,
           2,
-          5,
-          15,
-          77
+          98
         ],
-        "expert_rmse": 0.09843187320885052,
-        "rollout_rmse": 0.10623795782407335,
-        "expert_reference_rms": 0.9417000799516274,
+        "expert_rmse": 0.0984318732088505,
+        "rollout_rmse": 0.10623795782407337,
+        "expert_reference_rms": 0.9417000799516273,
         "rollout_reference_rms": 0.9416498872916327
       },
       "Validation": {
-        "all_visited_rate": 0.71,
-        "mean_visited": 3.52,
+        "all_visited_rate": 0.87,
+        "mean_visited": 3.85,
         "mean_worst_distance": 0.03591513501065211,
         "visit_count_histogram": [
-          3,
+          0,
+          0,
           2,
-          6,
-          18,
-          71
+          11,
+          87
         ],
         "expert_rmse": 0.16355136613927868,
         "rollout_rmse": 0.39024116780480644,
-        "expert_reference_rms": 0.9366738698296385,
-        "rollout_reference_rms": 0.953727524550739
+        "expert_reference_rms": 0.9366738698296384,
+        "rollout_reference_rms": 0.9537275245507391
       }
     }
   },
   "aggregate": {
     "5000": {
       "success": {
-        "mean": 0.6180000000000001,
-        "std": 0.03633180424916993
+        "mean": 0.844,
+        "std": 0.016733200530681527
       },
       "mean_visited": {
-        "mean": 3.4219999999999997,
-        "std": 0.080436310208761
+        "mean": 3.8019999999999996,
+        "std": 0.0258843582110896
       },
       "worst_distance": {
         "mean": 0.04055288368406688,
@@ -594,11 +594,11 @@
       },
       "expert_rmse": {
         "mean": 0.1609664410266008,
-        "std": 0.010925452923667948
+        "std": 0.010925452923667974
       },
       "rollout_rmse": {
         "mean": 0.3743828887926486,
-        "std": 0.03628469147731499
+        "std": 0.036284691477315
       },
       "selected_epoch": {
         "mean": 3587.8,
@@ -607,24 +607,24 @@
     },
     "10000": {
       "success": {
-        "mean": 0.638,
-        "std": 0.04604345773288535
+        "mean": 0.858,
+        "std": 0.03420526275297413
       },
       "mean_visited": {
-        "mean": 3.4299999999999997,
-        "std": 0.06041522986797288
+        "mean": 3.822,
+        "std": 0.030331501776206228
       },
       "worst_distance": {
         "mean": 0.03766375777551563,
         "std": 0.0032145216289925053
       },
       "expert_rmse": {
-        "mean": 0.15523257216568517,
-        "std": 0.0064046836508419485
+        "mean": 0.15523257216568515,
+        "std": 0.006404683650841942
       },
       "rollout_rmse": {
-        "mean": 0.3485047873133551,
-        "std": 0.04713988816953497
+        "mean": 0.3485047873133552,
+        "std": 0.04713988816953496
       },
       "selected_epoch": {
         "mean": 5975.4,
@@ -633,7 +633,6 @@
     }
   },
   "dataset_sha256": {
-    "config.json": "795d064b789f203ec213b55f9db0b746c2af3427b08b473cfca9e2ab7cf92949",
     "train.npz": "0fb20f206750157be80ac9281378f07c684a1d6d538d9c035114e78dfb3e70fa",
     "validation.npz": "2eb47a32c8c8b24f1d0babe87fa7fbd87826196051281cd73fc464eab88268e7"
   },

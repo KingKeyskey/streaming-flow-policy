@@ -9,7 +9,7 @@
     3,
     4
   ],
-  "visit_tolerance": 0.02,
+  "visit_tolerance": 0.05,
   "ode_steps": 1000,
   "train_indices": [
     3675,
@@ -220,35 +220,35 @@
       "selected_epoch": 6550,
       "validation_loss": 0.02968879646062851,
       "Training": {
-        "all_visited_rate": 0.67,
-        "mean_visited": 3.49,
+        "all_visited_rate": 0.89,
+        "mean_visited": 3.85,
         "mean_worst_distance": 0.02873135865607055,
         "visit_count_histogram": [
           1,
-          2,
-          11,
-          19,
-          67
+          0,
+          1,
+          9,
+          89
         ],
-        "expert_rmse": 0.11210132760134782,
+        "expert_rmse": 0.1121013276013478,
         "rollout_rmse": 0.25243976288736136,
-        "expert_reference_rms": 0.9417000799516274,
+        "expert_reference_rms": 0.9417000799516273,
         "rollout_reference_rms": 0.9460051870245119
       },
       "Validation": {
-        "all_visited_rate": 0.64,
-        "mean_visited": 3.43,
+        "all_visited_rate": 0.89,
+        "mean_visited": 3.84,
         "mean_worst_distance": 0.03808395596483018,
         "visit_count_histogram": [
           0,
+          1,
+          3,
           7,
-          7,
-          22,
-          64
+          89
         ],
         "expert_rmse": 0.15378565691422025,
-        "rollout_rmse": 0.3423740410631509,
-        "expert_reference_rms": 0.9366738698296385,
+        "rollout_rmse": 0.34237404106315084,
+        "expert_reference_rms": 0.9366738698296384,
         "rollout_reference_rms": 0.9453479475791015
       }
     },
@@ -256,35 +256,35 @@
       "selected_epoch": 10419,
       "validation_loss": 0.029981557691097258,
       "Training": {
-        "all_visited_rate": 0.7,
-        "mean_visited": 3.66,
+        "all_visited_rate": 0.97,
+        "mean_visited": 3.96,
         "mean_worst_distance": 0.01864550600889382,
         "visit_count_histogram": [
           0,
           0,
-          4,
-          26,
-          70
+          1,
+          2,
+          97
         ],
-        "expert_rmse": 0.10157328907670955,
-        "rollout_rmse": 0.11856604882917662,
-        "expert_reference_rms": 0.9417000799516274,
-        "rollout_reference_rms": 0.9411075753869794
+        "expert_rmse": 0.10157328907670957,
+        "rollout_rmse": 0.1185660488291766,
+        "expert_reference_rms": 0.9417000799516273,
+        "rollout_reference_rms": 0.9411075753869793
       },
       "Validation": {
-        "all_visited_rate": 0.66,
-        "mean_visited": 3.47,
+        "all_visited_rate": 0.9,
+        "mean_visited": 3.86,
         "mean_worst_distance": 0.035041208288112566,
         "visit_count_histogram": [
           0,
-          2,
-          15,
-          17,
-          66
+          0,
+          4,
+          6,
+          90
         ],
         "expert_rmse": 0.15546216039829605,
         "rollout_rmse": 0.2875485588703589,
-        "expert_reference_rms": 0.9366738698296385,
+        "expert_reference_rms": 0.9366738698296384,
         "rollout_reference_rms": 0.9457944757371848
       }
     },
@@ -292,35 +292,35 @@
       "selected_epoch": 12287,
       "validation_loss": 0.030961616584658624,
       "Training": {
-        "all_visited_rate": 0.79,
-        "mean_visited": 3.71,
+        "all_visited_rate": 1.0,
+        "mean_visited": 4.0,
         "mean_worst_distance": 0.014767975224999959,
         "visit_count_histogram": [
           0,
-          1,
-          6,
-          14,
-          79
+          0,
+          0,
+          0,
+          100
         ],
-        "expert_rmse": 0.09232128846319282,
+        "expert_rmse": 0.09232128846319286,
         "rollout_rmse": 0.10018702992645553,
-        "expert_reference_rms": 0.9417000799516274,
+        "expert_reference_rms": 0.9417000799516273,
         "rollout_reference_rms": 0.9418780364284322
       },
       "Validation": {
-        "all_visited_rate": 0.64,
-        "mean_visited": 3.45,
+        "all_visited_rate": 0.86,
+        "mean_visited": 3.81,
         "mean_worst_distance": 0.030960384331724454,
         "visit_count_histogram": [
+          0,
           1,
           3,
           10,
-          22,
-          64
+          86
         ],
-        "expert_rmse": 0.13822185690265457,
+        "expert_rmse": 0.13822185690265454,
         "rollout_rmse": 0.2781589261086957,
-        "expert_reference_rms": 0.9366738698296385,
+        "expert_reference_rms": 0.9366738698296384,
         "rollout_reference_rms": 0.9421609789589224
       }
     },
@@ -328,35 +328,35 @@
       "selected_epoch": 2293,
       "validation_loss": 0.03130324237644672,
       "Training": {
-        "all_visited_rate": 0.61,
-        "mean_visited": 3.44,
+        "all_visited_rate": 0.89,
+        "mean_visited": 3.86,
         "mean_worst_distance": 0.029681701133701673,
         "visit_count_histogram": [
           0,
-          2,
-          13,
-          24,
-          61
+          0,
+          3,
+          8,
+          89
         ],
         "expert_rmse": 0.1253655429605545,
-        "rollout_rmse": 0.22544875862884237,
-        "expert_reference_rms": 0.9417000799516274,
+        "rollout_rmse": 0.2254487586288424,
+        "expert_reference_rms": 0.9417000799516273,
         "rollout_reference_rms": 0.945509454673495
       },
       "Validation": {
-        "all_visited_rate": 0.49,
-        "mean_visited": 3.07,
+        "all_visited_rate": 0.8,
+        "mean_visited": 3.72,
         "mean_worst_distance": 0.04935043230782274,
         "visit_count_histogram": [
-          2,
-          12,
-          12,
-          25,
-          49
+          0,
+          1,
+          6,
+          13,
+          80
         ],
         "expert_rmse": 0.1643433950251262,
-        "rollout_rmse": 0.3951936597456539,
-        "expert_reference_rms": 0.9366738698296385,
+        "rollout_rmse": 0.39519365974565396,
+        "expert_reference_rms": 0.9366738698296384,
         "rollout_reference_rms": 0.9545585458912321
       }
     },
@@ -364,35 +364,35 @@
       "selected_epoch": 5666,
       "validation_loss": 0.031038841250538827,
       "Training": {
-        "all_visited_rate": 0.64,
-        "mean_visited": 3.51,
+        "all_visited_rate": 0.97,
+        "mean_visited": 3.96,
         "mean_worst_distance": 0.021726520010350785,
         "visit_count_histogram": [
           0,
+          0,
+          1,
           2,
-          9,
-          25,
-          64
+          97
         ],
-        "expert_rmse": 0.10730196381866632,
+        "expert_rmse": 0.10730196381866633,
         "rollout_rmse": 0.14145430946049684,
-        "expert_reference_rms": 0.9417000799516274,
-        "rollout_reference_rms": 0.9442502664289876
+        "expert_reference_rms": 0.9417000799516273,
+        "rollout_reference_rms": 0.9442502664289877
       },
       "Validation": {
-        "all_visited_rate": 0.54,
-        "mean_visited": 3.37,
+        "all_visited_rate": 0.87,
+        "mean_visited": 3.84,
         "mean_worst_distance": 0.039901954428146945,
         "visit_count_histogram": [
+          0,
           1,
-          4,
-          6,
-          35,
-          54
+          1,
+          11,
+          87
         ],
         "expert_rmse": 0.14998983362901316,
         "rollout_rmse": 0.3314809708033665,
-        "expert_reference_rms": 0.9366738698296385,
+        "expert_reference_rms": 0.9366738698296384,
         "rollout_reference_rms": 0.9498443229326509
       }
     }
@@ -400,12 +400,12 @@
   "aggregate": {
     "20000": {
       "success": {
-        "mean": 0.594,
-        "std": 0.07469939758793241
+        "mean": 0.8640000000000001,
+        "std": 0.03911521443121588
       },
       "mean_visited": {
-        "mean": 3.3580000000000005,
-        "std": 0.16528762809115524
+        "mean": 3.814,
+        "std": 0.05549774770204629
       },
       "worst_distance": {
         "mean": 0.03866758706412738,
@@ -413,11 +413,11 @@
       },
       "expert_rmse": {
         "mean": 0.15236058057386204,
-        "std": 0.009496873568231324
+        "std": 0.009496873568231336
       },
       "rollout_rmse": {
         "mean": 0.3269512313182452,
-        "std": 0.04703368548603722
+        "std": 0.04703368548603724
       },
       "selected_epoch": {
         "mean": 7443.0,
@@ -426,7 +426,6 @@
     }
   },
   "dataset_sha256": {
-    "config.json": "795d064b789f203ec213b55f9db0b746c2af3427b08b473cfca9e2ab7cf92949",
     "train.npz": "0fb20f206750157be80ac9281378f07c684a1d6d538d9c035114e78dfb3e70fa",
     "validation.npz": "2eb47a32c8c8b24f1d0babe87fa7fbd87826196051281cd73fc464eab88268e7"
   },
