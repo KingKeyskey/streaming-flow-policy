@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;experiments/four_boxes_experiments/four_target_single_vs_multiroute_training.ipynb">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_analytic_convergence.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_analytic_convergence.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,61 +40,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0191884734502488" />
-      <entry key="MS500" value="1.7106907395163802" />
-      <entry key="S2" value="3.9957398010822502" />
-      <entry key="S5" value="6.269156518244024" />
-      <entry key="S10" value="7.751380762372498" />
-      <entry key="S30" value="9.139195950854287" />
-      <entry key="S60" value="9.554259217427585" />
-      <entry key="M2" value="9.79887560307538" />
-      <entry key="M5" value="10.346648267587579" />
-      <entry key="M10" value="12.609675802092275" />
-      <entry key="M15" value="15.750526403049921" />
-      <entry key="M30" value="23.52393053357473" />
-      <entry key="H1" value="31.962224666140028" />
-      <entry key="H2" value="40.47055677465498" />
-      <entry key="H4" value="48.287475021128834" />
-      <entry key="D1" value="59.08421218903934" />
-      <entry key="W1" value="61.563828965644205" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0000000000017841" />
+      <entry key="M10" value="1.0000052361007183" />
+      <entry key="M15" value="1.000876659857011" />
+      <entry key="M30" value="1.1755003196776377" />
+      <entry key="H1" value="3.76071141957552" />
+      <entry key="H2" value="12.894089035082406" />
+      <entry key="H4" value="27.177640514653312" />
+      <entry key="D1" value="54.352419145197175" />
+      <entry key="W1" value="61.67287511601288" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.0066720837884175E-248" />
-      <entry key="MS500" value="3.13052526453939E-50" />
-      <entry key="S2" value="4.206339315371082E-13" />
-      <entry key="S5" value="1.1208867136217574E-5" />
-      <entry key="S10" value="0.003347964625891015" />
-      <entry key="S30" value="0.14959840169067182" />
-      <entry key="S60" value="0.38677952594555975" />
-      <entry key="M2" value="0.6219160119707157" />
-      <entry key="M5" value="0.8269755990799041" />
-      <entry key="M10" value="0.9093819874397692" />
-      <entry key="M15" value="0.938636774169514" />
-      <entry key="M30" value="0.9688326863651505" />
-      <entry key="H1" value="0.9842929880707018" />
-      <entry key="H2" value="0.9921154106608273" />
-      <entry key="H4" value="0.9960499037000239" />
-      <entry key="D1" value="0.9993405644338967" />
-      <entry key="W1" value="0.9999057682844631" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="3.475428602324687E-129" />
+      <entry key="S60" value="5.895276585814009E-65" />
+      <entry key="M2" value="7.678070451496265E-33" />
+      <entry key="M5" value="1.4259386381563524E-13" />
+      <entry key="M10" value="3.7761602695811957E-7" />
+      <entry key="M15" value="5.2243662159080064E-5" />
+      <entry key="M30" value="0.007227977736482042" />
+      <entry key="H1" value="0.08501751429253883" />
+      <entry key="H2" value="0.2915776299590537" />
+      <entry key="H4" value="0.5399792866018599" />
+      <entry key="D1" value="0.9023939676454891" />
+      <entry key="W1" value="0.985435097624606" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9776698753512219" />
-      <entry key="MS500" value="1.6962174505942453" />
-      <entry key="S2" value="3.9866781982647264" />
-      <entry key="S5" value="6.262426344462712" />
-      <entry key="S10" value="7.7497642800900755" />
-      <entry key="S30" value="9.281154030346581" />
-      <entry key="S60" value="9.932570277832456" />
-      <entry key="M2" value="10.41425139386034" />
-      <entry key="M5" value="11.17016042690797" />
-      <entry key="M10" value="13.517009902001103" />
-      <entry key="M15" value="16.68761199241795" />
-      <entry key="M30" value="24.491775375282028" />
-      <entry key="H1" value="32.94586087146866" />
-      <entry key="H2" value="41.462185690553305" />
-      <entry key="H4" value="49.2831768029438" />
-      <entry key="D1" value="60.08346555857124" />
-      <entry key="W1" value="62.563721243201975" />
+      <entry key="MS100" value="0.9659363289248456" />
+      <entry key="MS500" value="0.9930924954370359" />
+      <entry key="S2" value="0.9982686325973925" />
+      <entry key="S5" value="0.9993070929904525" />
+      <entry key="S10" value="0.9996534864594093" />
+      <entry key="S30" value="0.9998844821426083" />
+      <entry key="S60" value="0.9999422394031608" />
+      <entry key="M2" value="0.9999711192845325" />
+      <entry key="M5" value="0.999988447615646" />
+      <entry key="M10" value="0.9999998366565486" />
+      <entry key="M15" value="1.000924966371391" />
+      <entry key="M30" value="1.1827190021905596" />
+      <entry key="H1" value="3.8456712420835992" />
+      <entry key="H2" value="13.18552320537423" />
+      <entry key="H4" value="27.71743083649364" />
+      <entry key="D1" value="55.25473433665505" />
+      <entry key="W1" value="62.65829691241867" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -244,7 +241,23 @@
       <option name="project" value="LOCAL" />
       <updated>1790300308732</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1">
+      <option name="closed" value="true" />
+      <created>1790303415440</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1790303415440</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1">
+      <option name="closed" value="true" />
+      <created>1790303427572</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1790303427572</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,10 +288,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Experiments of four boxes on 50 200 1000 2000 5000 epoches" />
-    <MESSAGE value="1" />
     <MESSAGE value="experiment on how to improve performance" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;experiments/four_boxes_experiments/four_target_single_vs_multiroute_training.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;experiments/four_boxes_experiments/four_target_single_vs_multiroute_training.ipynb" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/four_target_shortest_paths_5000_epochs_ipynb$1.coverage" NAME="1 覆盖结果" MODIFIED="1789437806415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiments/four_boxes_experiments" />
