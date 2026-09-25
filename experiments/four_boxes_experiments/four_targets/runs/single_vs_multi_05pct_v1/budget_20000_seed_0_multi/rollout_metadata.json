@@ -1,0 +1,13 @@
+{
+  "fingerprint": {
+    "checkpoint_sha256": "bb8f6f2e3493d2647240d79be3d82e291af1cf378d5d80a91757ccc12feb6357",
+    "validation_sha256": "2eb47a32c8c8b24f1d0babe87fa7fbd87826196051281cd73fc464eab88268e7",
+    "steps": 1000,
+    "batch_size": 100,
+    "dtype": "float64",
+    "initial_state": "exact_start",
+    "integration": "RK4",
+    "implementation": "rollout_v1"
+  },
+  "cache_sha256": "a9487728edbb6469ebf9f625483884ff3f9070865bc15ee71e5183a5037b7426"
+}

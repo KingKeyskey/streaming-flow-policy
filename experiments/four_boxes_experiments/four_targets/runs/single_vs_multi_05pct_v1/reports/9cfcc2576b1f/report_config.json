@@ -1,0 +1,24 @@
+{
+  "budgets": [
+    10000
+  ],
+  "seeds": [
+    0
+  ],
+  "modes": [
+    "multi"
+  ],
+  "tolerances": [
+    0.02,
+    0.05
+  ],
+  "validation_layouts": 1000,
+  "selection": "final_epoch",
+  "eval_steps": 1000,
+  "eval_dtype": "float64",
+  "training_data_hashes": {
+    "train.npz": "0fb20f206750157be80ac9281378f07c684a1d6d538d9c035114e78dfb3e70fa",
+    "validation.npz": "2eb47a32c8c8b24f1d0babe87fa7fbd87826196051281cd73fc464eab88268e7"
+  },
+  "multiroute_sha256": "b25e5a98f855e887996971505941c975583fcbfa6196a8c4eb032aa67add66a5"
+}
