@@ -1,0 +1,29 @@
+{
+  "input_preprocessing": "sort_targets_by_x_then_y",
+  "num_training_layouts": 10000,
+  "validation_probe_seed": 500,
+  "validation_probe_size": 20000,
+  "steps_per_epoch": 100,
+  "batch_size": 2048,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-06,
+  "hidden_dim": 128,
+  "num_hidden_layers": 4,
+  "sigma_0": 0.05,
+  "stabilizing_gain": 2.5,
+  "implementation_version": "single_multi_train_v1",
+  "training_seed": 0,
+  "train_sampling_seed": 1000,
+  "num_epochs": 10000,
+  "sampling": "multi",
+  "dataset_sha256": {
+    "train.npz": "0fb20f206750157be80ac9281378f07c684a1d6d538d9c035114e78dfb3e70fa",
+    "validation.npz": "2eb47a32c8c8b24f1d0babe87fa7fbd87826196051281cd73fc464eab88268e7"
+  },
+  "multiroute_sha256": "b25e5a98f855e887996971505941c975583fcbfa6196a8c4eb032aa67add66a5",
+  "relative_slack": 0.05,
+  "checkpoint_every": 25,
+  "probe_every": 25,
+  "selection": "final_epoch",
+  "sampler_sha256": "541e436859407bb559ba3876dbb09ec2efa42f2226ae7c40696d5efa4255feee"
+}
