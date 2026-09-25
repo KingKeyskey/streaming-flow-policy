@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;experiments/four_boxes_experiments/four_target_single_vs_multiroute_training.ipynb">
-      <change beforePath="$PROJECT_DIR$/.idea/streaming-flow-policy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/streaming-flow-policy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_single_vs_multiroute_training.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,69 +32,69 @@
     &quot;assignee&quot;: &quot;KingKeyskey&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KingKeyskey/streaming-flow-policy.git",
-    "accountId": "ee3f4bea-6a1c-49db-b3c0-41c0e57f6b62"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KingKeyskey/streaming-flow-policy.git&quot;,
+    &quot;accountId&quot;: &quot;ee3f4bea-6a1c-49db-b3c0-41c0e57f6b62&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0191884734502488" />
-      <entry key="MS500" value="1.7106907395163802" />
-      <entry key="S2" value="3.9957398010822502" />
-      <entry key="S5" value="6.269156518244024" />
-      <entry key="S10" value="7.751380762372498" />
-      <entry key="S30" value="9.139195950854287" />
-      <entry key="S60" value="9.554259217427585" />
-      <entry key="M2" value="9.79887560307538" />
-      <entry key="M5" value="10.346648267587579" />
-      <entry key="M10" value="12.609675802092275" />
-      <entry key="M15" value="15.750526403049921" />
-      <entry key="M30" value="23.52393053357473" />
-      <entry key="H1" value="31.962224666140028" />
-      <entry key="H2" value="40.47055677465498" />
-      <entry key="H4" value="48.287475021128834" />
-      <entry key="D1" value="59.08421218903934" />
-      <entry key="W1" value="61.563828965644205" />
+      <entry key="MS100" value="1.8570319337922196" />
+      <entry key="MS500" value="2.6524183328541815" />
+      <entry key="S2" value="4.961268903296354" />
+      <entry key="S5" value="7.24746688439994" />
+      <entry key="S10" value="8.737960274395327" />
+      <entry key="S30" value="10.133918468609396" />
+      <entry key="S60" value="10.551500237592867" />
+      <entry key="M2" value="10.797460692114056" />
+      <entry key="M5" value="11.346050639008359" />
+      <entry key="M10" value="13.609311625633298" />
+      <entry key="M15" value="16.750223143942513" />
+      <entry key="M30" value="24.523704068746422" />
+      <entry key="H1" value="32.962070815635926" />
+      <entry key="H2" value="41.47045937181274" />
+      <entry key="H4" value="49.287416912956914" />
+      <entry key="D1" value="60.08420033890884" />
+      <entry key="W1" value="62.5638272017225" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.0066720837884175E-248" />
-      <entry key="MS500" value="3.13052526453939E-50" />
-      <entry key="S2" value="4.206339315371082E-13" />
-      <entry key="S5" value="1.1208867136217574E-5" />
-      <entry key="S10" value="0.003347964625891015" />
-      <entry key="S30" value="0.14959840169067182" />
-      <entry key="S60" value="0.38677952594555975" />
-      <entry key="M2" value="0.6219160119707157" />
-      <entry key="M5" value="0.8269755990799041" />
-      <entry key="M10" value="0.9093819874397692" />
-      <entry key="M15" value="0.938636774169514" />
-      <entry key="M30" value="0.9688326863651505" />
-      <entry key="H1" value="0.9842929880707018" />
-      <entry key="H2" value="0.9921154106608273" />
-      <entry key="H4" value="0.9960499037000239" />
-      <entry key="D1" value="0.9993405644338967" />
-      <entry key="W1" value="0.9999057682844631" />
+      <entry key="MS100" value="2.5282997771010963E-248" />
+      <entry key="MS500" value="3.0238880816356596E-50" />
+      <entry key="S2" value="4.1700515939950097E-13" />
+      <entry key="S5" value="1.117008740192891E-5" />
+      <entry key="S10" value="0.003342168069072664" />
+      <entry key="S30" value="0.14951201521717547" />
+      <entry key="S60" value="0.3866678357675688" />
+      <entry key="M2" value="0.6218262102610089" />
+      <entry key="M5" value="0.8269278324757299" />
+      <entry key="M10" value="0.9093557238373386" />
+      <entry key="M15" value="0.9386187017481212" />
+      <entry key="M30" value="0.9688233594149768" />
+      <entry key="H1" value="0.9842882501660665" />
+      <entry key="H2" value="0.9921130228789796" />
+      <entry key="H4" value="0.9960487050736923" />
+      <entry key="D1" value="0.9993403640027552" />
+      <entry key="W1" value="0.9999057396352463" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9776698753512219" />
-      <entry key="MS500" value="1.6962174505942453" />
-      <entry key="S2" value="3.9866781982647264" />
-      <entry key="S5" value="6.262426344462712" />
-      <entry key="S10" value="7.7497642800900755" />
-      <entry key="S30" value="9.281154030346581" />
-      <entry key="S60" value="9.932570277832456" />
-      <entry key="M2" value="10.41425139386034" />
-      <entry key="M5" value="11.17016042690797" />
-      <entry key="M10" value="13.517009902001103" />
-      <entry key="M15" value="16.68761199241795" />
-      <entry key="M30" value="24.491775375282028" />
-      <entry key="H1" value="32.94586087146866" />
-      <entry key="H2" value="41.462185690553305" />
-      <entry key="H4" value="49.2831768029438" />
-      <entry key="D1" value="60.08346555857124" />
-      <entry key="W1" value="62.563721243201975" />
+      <entry key="MS100" value="1.6630155087381029" />
+      <entry key="MS500" value="2.6043743862101114" />
+      <entry key="S2" value="4.943658561596447" />
+      <entry key="S5" value="7.2373002580789025" />
+      <entry key="S10" value="8.734615223435028" />
+      <entry key="S30" value="10.275217117718391" />
+      <entry key="S60" value="10.929413283632092" />
+      <entry key="M2" value="11.412603230329474" />
+      <entry key="M5" value="12.169457471178083" />
+      <entry key="M10" value="14.516590640368685" />
+      <entry key="M15" value="17.68727143685252" />
+      <entry key="M30" value="25.49152996601569" />
+      <entry key="H1" value="33.94569747271085" />
+      <entry key="H2" value="42.46208349434194" />
+      <entry key="H4" value="50.28311629318467" />
+      <entry key="D1" value="61.08345330746369" />
+      <entry key="W1" value="63.56371942197953" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -113,30 +109,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "git.auto.fetch.suggestion.counter": "2",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/matcho/projects/streaming-flow-policy/experiments/four_boxes_experiments",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;2&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/matcho/projects/streaming-flow-policy/experiments/four_boxes_experiments&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\Ubuntu\home\matcho\projects\streaming-flow-policy\experiments\four_boxes_experiments" />
@@ -182,7 +178,7 @@
       <workItem from="1790281917184" duration="1624000" />
       <workItem from="1790283626408" duration="5309000" />
       <workItem from="1790303822973" duration="67000" />
-      <workItem from="1790303896812" duration="2723000" />
+      <workItem from="1790303896812" duration="2779000" />
     </task>
     <task id="LOCAL-00001" summary="Experiments of four boxes on 50 200 1000 2000 5000 epoches">
       <option name="closed" value="true" />
@@ -248,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790300308732</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2">
+      <option name="closed" value="true" />
+      <created>1790307095795</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1790307095795</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +286,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="experiment on how to improve performance" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;experiments/four_boxes_experiments/four_target_single_vs_multiroute_training.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;experiments/four_boxes_experiments/four_target_single_vs_multiroute_training.ipynb" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/four_target_shortest_paths_5000_epochs_ipynb$1.coverage" NAME="1 覆盖结果" MODIFIED="1789437806415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiments/four_boxes_experiments" />
