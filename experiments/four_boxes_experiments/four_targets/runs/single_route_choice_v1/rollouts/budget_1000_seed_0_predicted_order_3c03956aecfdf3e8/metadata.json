@@ -1,0 +1,15 @@
+{
+  "fingerprint": {
+    "protocol": "single_route_choice_v1_20260930",
+    "case": "predicted_order",
+    "checkpoint_sha256": "4588f80ff93aed98d6e119686d8609026c6955bfa7037949db6bb114056cd273",
+    "validation_sha256": "2eb47a32c8c8b24f1d0babe87fa7fbd87826196051281cd73fc464eab88268e7",
+    "route_classes_sha256": "3b673e8b2bb44f705d86e56c49a09f5f295c385c6fec8060bddca2cf7629c6b7",
+    "steps": 1000,
+    "dtype": "float64",
+    "initial_state": "exact_start",
+    "integration": "RK4",
+    "batch_size": 100
+  },
+  "sha256": "0e14149bc113c54d12709807b7183df1e071733c52ef95ed31bf66038dcb0305"
+}

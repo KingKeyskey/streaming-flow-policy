@@ -1,0 +1,15 @@
+{
+  "fingerprint": {
+    "protocol": "single_route_choice_v1_20260930",
+    "case": "oracle_order",
+    "checkpoint_sha256": "4588f80ff93aed98d6e119686d8609026c6955bfa7037949db6bb114056cd273",
+    "validation_sha256": "2eb47a32c8c8b24f1d0babe87fa7fbd87826196051281cd73fc464eab88268e7",
+    "route_classes_sha256": "40677963fda24eaa693bae53d9261298818d37d15388ec5ff5091dcb1d812b1f",
+    "steps": 1000,
+    "dtype": "float64",
+    "initial_state": "exact_start",
+    "integration": "RK4",
+    "batch_size": 100
+  },
+  "sha256": "e80d2cb649c01b6fea221be62c8e3b6b57f0376e8c6f246c38de51292d11e846"
+}

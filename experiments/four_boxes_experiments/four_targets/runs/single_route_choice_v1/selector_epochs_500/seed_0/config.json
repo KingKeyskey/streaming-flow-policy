@@ -1,0 +1,23 @@
+{
+  "protocol": "single_route_choice_v1_20260930",
+  "role": "selector",
+  "training_seed": 0,
+  "num_epochs": 500,
+  "dataset_sha256": {
+    "train.npz": "0fb20f206750157be80ac9281378f07c684a1d6d538d9c035114e78dfb3e70fa",
+    "validation.npz": "2eb47a32c8c8b24f1d0babe87fa7fbd87826196051281cd73fc464eab88268e7"
+  },
+  "selection": "final_epoch",
+  "route_encoding": "canonical_4x4_one_hot",
+  "initializer": "original_backbone_then_zero_route_projection",
+  "training_data": "single_only",
+  "steps_per_epoch": 20,
+  "batch_size": 1024,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-06,
+  "train_sampling_seed": 30000,
+  "initialization_seed": 20000,
+  "hidden_dim": 128,
+  "num_hidden_layers": 3,
+  "loss": "cross_entropy_saved_single_expert_order"
+}

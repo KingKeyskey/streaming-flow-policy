@@ -1,0 +1,29 @@
+{
+  "protocol": "single_route_choice_v1_20260930",
+  "budgets": [
+    1000
+  ],
+  "seeds": [
+    0
+  ],
+  "selector_epochs": 500,
+  "checkpoints": {
+    "selector_seed_0": "2351a93f91144477ed1b99440cfded6207c5a8e234d8d60f7b0035bce9b40212",
+    "baseline_1000_0": "2e50bec3577b7301ff9732780827f4fb67deb805339c556d416a09026ed6c4f5",
+    "route_conditioned_1000_0": "4588f80ff93aed98d6e119686d8609026c6955bfa7037949db6bb114056cd273"
+  },
+  "data_sha256": {
+    "train.npz": "0fb20f206750157be80ac9281378f07c684a1d6d538d9c035114e78dfb3e70fa",
+    "validation.npz": "2eb47a32c8c8b24f1d0babe87fa7fbd87826196051281cd73fc464eab88268e7"
+  },
+  "eval_steps": 1000,
+  "eval_batch": 100,
+  "tolerances": [
+    0.02,
+    0.05
+  ],
+  "nearopt_slack": 0.05,
+  "selection": "final_epoch",
+  "order_metric": "first_circle_entry; exclude nonobservable ideal orders and ambiguous entries",
+  "validation_role": "development_comparison_not_new_heldout_test"
+}
