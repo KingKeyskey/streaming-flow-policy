@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="2" />
+    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/experiment_4_four_targets_shortest_path.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_shortest_paths_10000_epochs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.4_four_target_shortest_paths_10000_epochs.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_shortest_paths_2000_epochs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.2_four_target_shortest_paths_2000_epochs.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_shortest_paths_5000_epochs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.3_four_target_shortest_paths_5000_epochs.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_shortest_paths_seed_sweep_20000.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.6_four_target_shortest_paths_seed_sweep_20000.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_shortest_paths_seed_sweep_5000_10000.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.5_four_target_shortest_paths_seed_sweep_5000_10000.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_v1_seed0/comparison.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_v1_seed0/comparison.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/sixteen_layout_canonical_fit_v1_seed0/evaluation.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/sixteen_layout_canonical_fit_v1_seed0/evaluation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/sixteen_layout_fit_v1_seed0/evaluation.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/sixteen_layout_fit_v1_seed0/evaluation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets_sorted_budget_200.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.0_four_targets_sorted_budget_200.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets_sorted_budget_500.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.1_four_targets_sorted_budget_500.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,61 +53,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.8570319337922196" />
-      <entry key="MS500" value="2.6524183328541815" />
-      <entry key="S2" value="4.961268903296354" />
-      <entry key="S5" value="7.24746688439994" />
-      <entry key="S10" value="8.737960274395327" />
-      <entry key="S30" value="10.133918468609396" />
-      <entry key="S60" value="10.551500237592867" />
-      <entry key="M2" value="10.797460692114056" />
-      <entry key="M5" value="11.346050639008359" />
-      <entry key="M10" value="13.609311625633298" />
-      <entry key="M15" value="16.750223143942513" />
-      <entry key="M30" value="24.523704068746422" />
-      <entry key="H1" value="32.962070815635926" />
-      <entry key="H2" value="41.47045937181274" />
-      <entry key="H4" value="49.287416912956914" />
-      <entry key="D1" value="60.08420033890884" />
-      <entry key="W1" value="62.5638272017225" />
+      <entry key="MS100" value="1.3164391484925702" />
+      <entry key="MS500" value="1.794434400096105" />
+      <entry key="S2" value="1.9442010709731568" />
+      <entry key="S5" value="2.0032168645569586" />
+      <entry key="S10" value="2.14970120098363" />
+      <entry key="S30" value="2.5403435174864173" />
+      <entry key="S60" value="2.7361954973741858" />
+      <entry key="M2" value="2.919566519728919" />
+      <entry key="M5" value="5.219899312349577" />
+      <entry key="M10" value="11.749530710735103" />
+      <entry key="M15" value="17.791144770681484" />
+      <entry key="M30" value="30.872554379000146" />
+      <entry key="H1" value="44.519595752280495" />
+      <entry key="H2" value="57.025524124872334" />
+      <entry key="H4" value="67.53438601093904" />
+      <entry key="D1" value="81.34021116894434" />
+      <entry key="W1" value="84.45369745561845" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.5282997771010963E-248" />
-      <entry key="MS500" value="3.0238880816356596E-50" />
-      <entry key="S2" value="4.1700515939950097E-13" />
-      <entry key="S5" value="1.117008740192891E-5" />
-      <entry key="S10" value="0.003342168069072664" />
-      <entry key="S30" value="0.14951201521717547" />
-      <entry key="S60" value="0.3866678357675688" />
-      <entry key="M2" value="0.6218262102610089" />
-      <entry key="M5" value="0.8269278324757299" />
-      <entry key="M10" value="0.9093557238373386" />
-      <entry key="M15" value="0.9386187017481212" />
-      <entry key="M30" value="0.9688233594149768" />
-      <entry key="H1" value="0.9842882501660665" />
-      <entry key="H2" value="0.9921130228789796" />
-      <entry key="H4" value="0.9960487050736923" />
-      <entry key="D1" value="0.9993403640027552" />
-      <entry key="W1" value="0.9999057396352463" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="5.379792050348584E-194" />
+      <entry key="S5" value="4.923865661844682E-78" />
+      <entry key="S10" value="2.2189785176618258E-39" />
+      <entry key="S30" value="1.3043206375072108E-13" />
+      <entry key="S60" value="3.6115379514927037E-7" />
+      <entry key="M2" value="6.009607267944135E-4" />
+      <entry key="M5" value="0.051468135611200914" />
+      <entry key="M10" value="0.22686589785862685" />
+      <entry key="M15" value="0.3719741946758231" />
+      <entry key="M30" value="0.6098968721643216" />
+      <entry key="H1" value="0.7809589439684532" />
+      <entry key="H2" value="0.8837188149906359" />
+      <entry key="H4" value="0.9400631973386878" />
+      <entry key="D1" value="0.9897515148479685" />
+      <entry key="W1" value="0.9985294590977251" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.6630155087381029" />
-      <entry key="MS500" value="2.6043743862101114" />
-      <entry key="S2" value="4.943658561596447" />
-      <entry key="S5" value="7.2373002580789025" />
-      <entry key="S10" value="8.734615223435028" />
-      <entry key="S30" value="10.275217117718391" />
-      <entry key="S60" value="10.929413283632092" />
-      <entry key="M2" value="11.412603230329474" />
-      <entry key="M5" value="12.169457471178083" />
-      <entry key="M10" value="14.516590640368685" />
-      <entry key="M15" value="17.68727143685252" />
-      <entry key="M30" value="25.49152996601569" />
-      <entry key="H1" value="33.94569747271085" />
-      <entry key="H2" value="42.46208349434194" />
-      <entry key="H4" value="50.28311629318467" />
-      <entry key="D1" value="61.08345330746369" />
-      <entry key="W1" value="63.56371942197953" />
+      <entry key="MS100" value="1.2737224322610747" />
+      <entry key="MS500" value="1.7831338073004133" />
+      <entry key="S2" value="1.9411616698194853" />
+      <entry key="S5" value="2.00196781020552" />
+      <entry key="S10" value="2.149035966770769" />
+      <entry key="S30" value="2.5400856482384477" />
+      <entry key="S60" value="2.736057862179138" />
+      <entry key="M2" value="2.9200877560765655" />
+      <entry key="M5" value="5.271097685989672" />
+      <entry key="M10" value="11.975825819293464" />
+      <entry key="M15" value="18.16244787999795" />
+      <entry key="M30" value="31.481788431695396" />
+      <entry key="H1" value="45.300008690685594" />
+      <entry key="H2" value="57.9087958446618" />
+      <entry key="H4" value="68.47411342282925" />
+      <entry key="D1" value="82.32987506863697" />
+      <entry key="W1" value="85.4522132616965" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -109,38 +122,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;2&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/matcho/projects/streaming-flow-policy/experiments/four_boxes_experiments&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "git.auto.fetch.suggestion.counter": "2",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/u7779895/PycharmProjects/streaming-flow-policy/experiments/four_boxes_experiments",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/experiments/four_boxes_experiments" />
       <recent name="\\wsl.localhost\Ubuntu\home\matcho\projects\streaming-flow-policy\experiments\four_boxes_experiments" />
       <recent name="\\wsl.localhost\Ubuntu\home\matcho\projects\streaming-flow-policy\experiments" />
       <recent name="\\wsl.localhost\Ubuntu\home\matcho\projects\streaming-flow-policy\experiments\multimodal_paths" />
       <recent name="\\wsl.localhost\Ubuntu\home\matcho\projects\streaming-flow-policy\notebooks\pusht" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/experiments/four_boxes_experiments" />
+      <recent name="$PROJECT_DIR$/experiments/3._four_boxes_experiments" />
       <recent name="\\wsl.localhost\Ubuntu\home\matcho\projects\streaming-flow-policy\experiments\four_boxes_experiments" />
       <recent name="\\wsl.localhost\Ubuntu\home\matcho\projects\streaming-flow-policy\experiments\four_boxes_experiments\four_targets" />
     </key>
@@ -179,6 +195,7 @@
       <workItem from="1790283626408" duration="5309000" />
       <workItem from="1790303822973" duration="67000" />
       <workItem from="1790303896812" duration="2779000" />
+      <workItem from="1790736772220" duration="7165000" />
     </task>
     <task id="LOCAL-00001" summary="Experiments of four boxes on 50 200 1000 2000 5000 epoches">
       <option name="closed" value="true" />

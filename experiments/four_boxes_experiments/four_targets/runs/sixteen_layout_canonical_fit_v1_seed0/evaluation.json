@@ -136,8 +136,8 @@
         0
       ],
       "expert_rmse": 2.200378967414928,
-      "rollout_rmse": 5.315227782165343,
-      "expert_reference_rms": 0.9366738698296384,
+      "rollout_rmse": 5.315227782165344,
+      "expert_reference_rms": 0.9366738698296385,
       "rollout_reference_rms": 2.2044137589956954
     }
   }
