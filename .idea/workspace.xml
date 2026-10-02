@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/3.1_four_target_route_choice_single.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/3.0_four_target_route_choice_single.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_analytic_convergence.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/2.3_four_target_analytic_convergence.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_build_multiroute_dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/2.0_four_target_build_multiroute_dataset.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_multiroute_diagnostics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/2.2_four_target_multiroute_diagnostics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_single_vs_multiroute_training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/2.1_four_target_single_vs_multiroute_training.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_training_coverage_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.7_four_target_training_coverage_analysis.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,60 +41,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0007533897925316" />
-      <entry key="S2" value="1.2798654884359346" />
-      <entry key="S5" value="2.0533409908201046" />
-      <entry key="S10" value="2.905432715559642" />
-      <entry key="S30" value="4.667963446487715" />
-      <entry key="S60" value="6.188730675779914" />
-      <entry key="M2" value="7.627866311556973" />
-      <entry key="M5" value="8.901577945384995" />
-      <entry key="M10" value="9.43279627073255" />
-      <entry key="M15" value="9.778047732437564" />
-      <entry key="M30" value="12.820931068094971" />
-      <entry key="H1" value="23.824698409493543" />
-      <entry key="H2" value="41.84257773965633" />
-      <entry key="H4" value="60.4801974639883" />
-      <entry key="D1" value="87.49087959540171" />
-      <entry key="W1" value="93.87086261014375" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0000000000112148" />
+      <entry key="M5" value="1.000164597620404" />
+      <entry key="M10" value="1.040561941214255" />
+      <entry key="M15" value="1.2585657541707742" />
+      <entry key="M30" value="3.0848700508658093" />
+      <entry key="H1" value="10.607427691214912" />
+      <entry key="H2" value="27.571023779672224" />
+      <entry key="H4" value="49.19568182628391" />
+      <entry key="D1" value="85.24198742788379" />
+      <entry key="W1" value="94.36477801293309" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="4.3490761507975625E-221" />
-      <entry key="S30" value="3.5166758365629235E-74" />
-      <entry key="S60" value="1.8752802021465827E-37" />
-      <entry key="M2" value="4.3304505564046995E-19" />
-      <entry key="M5" value="4.5145371766607156E-8" />
-      <entry key="M10" value="2.124744026150142E-4" />
-      <entry key="M15" value="0.00356071934940149" />
-      <entry key="M30" value="0.059671763417897136" />
-      <entry key="H1" value="0.24427804530472472" />
-      <entry key="H2" value="0.49424492440967466" />
-      <entry key="H4" value="0.7030255503249329" />
-      <entry key="D1" value="0.9429641564593154" />
-      <entry key="W1" value="0.9916455217970002" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="1.6432281648516397E-121" />
+      <entry key="S60" value="4.0536750792973545E-61" />
+      <entry key="M2" value="6.3668477909381055E-31" />
+      <entry key="M5" value="8.347756780462422E-13" />
+      <entry key="M10" value="9.136605923679988E-7" />
+      <entry key="M15" value="9.415786352875049E-5" />
+      <entry key="M30" value="0.009703497489500907" />
+      <entry key="H1" value="0.09850633223047596" />
+      <entry key="H2" value="0.3138571844493544" />
+      <entry key="H4" value="0.5602295819120536" />
+      <entry key="D1" value="0.9079480624808544" />
+      <entry key="W1" value="0.9862992779198275" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8350879194283694" />
-      <entry key="MS500" value="0.9651606345951202" />
-      <entry key="S2" value="1.2529353347170729" />
-      <entry key="S5" value="2.0260833900138127" />
-      <entry key="S10" value="2.8859261156594376" />
-      <entry key="S30" value="4.6595338215126265" />
-      <entry key="S60" value="6.184174038095034" />
-      <entry key="M2" value="7.625479662718099" />
-      <entry key="M5" value="8.900592155663972" />
-      <entry key="M10" value="9.432509507694823" />
-      <entry key="M15" value="9.781268222489652" />
-      <entry key="M30" value="12.88037039720596" />
-      <entry key="H1" value="24.068721702946473" />
-      <entry key="H2" value="42.33653058699762" />
-      <entry key="H4" value="61.18295087330346" />
-      <entry key="D1" value="88.43375677289045" />
-      <entry key="W1" value="94.86249407221673" />
+      <entry key="MS100" value="0.9726549474122855" />
+      <entry key="MS500" value="0.9944701686732144" />
+      <entry key="S2" value="0.9986146661010289" />
+      <entry key="S5" value="0.9994456359721023" />
+      <entry key="S10" value="0.9997227795604651" />
+      <entry key="S30" value="0.9999075846464872" />
+      <entry key="S60" value="0.9999537912556196" />
+      <entry key="M2" value="0.9999768953721091" />
+      <entry key="M5" value="1.000155337472627" />
+      <entry key="M10" value="1.0405560871347808" />
+      <entry key="M15" value="1.2586478345332648" />
+      <entry key="M30" value="3.0945342108271277" />
+      <entry key="H1" value="10.705830523335553" />
+      <entry key="H2" value="27.884695103212422" />
+      <entry key="H4" value="49.75569435092799" />
+      <entry key="D1" value="86.14985170918682" />
+      <entry key="W1" value="95.35106330234458" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -192,7 +184,7 @@
       <workItem from="1790303896812" duration="2779000" />
       <workItem from="1790736772220" duration="7205000" />
       <workItem from="1790901361813" duration="1582000" />
-      <workItem from="1790903744938" duration="4633000" />
+      <workItem from="1790903744938" duration="5470000" />
     </task>
     <task id="LOCAL-00001" summary="Experiments of four boxes on 50 200 1000 2000 5000 epoches">
       <option name="closed" value="true" />
@@ -282,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790747892424</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="4">
+      <option name="closed" value="true" />
+      <created>1790910044316</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1790910044316</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,7 +318,8 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;experiments/four_boxes_experiments/four_target_single_vs_multiroute_training.ipynb" />
     <MESSAGE value="2" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="4" />
+    <option name="LAST_COMMIT_MESSAGE" value="4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/four_target_shortest_paths_5000_epochs_ipynb$1.coverage" NAME="1 覆盖结果" MODIFIED="1789437806415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiments/four_boxes_experiments" />
