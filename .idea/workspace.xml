@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="2">
+    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/experiment_4_four_targets_shortest_path.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_shortest_paths_10000_epochs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.4_four_target_shortest_paths_10000_epochs.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_shortest_paths_2000_epochs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.2_four_target_shortest_paths_2000_epochs.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_shortest_paths_5000_epochs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.3_four_target_shortest_paths_5000_epochs.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_shortest_paths_seed_sweep_20000.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.6_four_target_shortest_paths_seed_sweep_20000.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_shortest_paths_seed_sweep_5000_10000.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.5_four_target_shortest_paths_seed_sweep_5000_10000.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_v1_seed0/comparison.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_v1_seed0/comparison.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/sixteen_layout_canonical_fit_v1_seed0/evaluation.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/sixteen_layout_canonical_fit_v1_seed0/evaluation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/sixteen_layout_fit_v1_seed0/evaluation.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets/runs/sixteen_layout_fit_v1_seed0/evaluation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets_sorted_budget_200.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.0_four_targets_sorted_budget_200.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_targets_sorted_budget_500.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.1_four_targets_sorted_budget_500.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/3.1_four_target_route_choice_single.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/3.0_four_target_route_choice_single.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_analytic_convergence.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/2.3_four_target_analytic_convergence.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_build_multiroute_dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/2.0_four_target_build_multiroute_dataset.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_multiroute_diagnostics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/2.2_four_target_multiroute_diagnostics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_single_vs_multiroute_training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/2.1_four_target_single_vs_multiroute_training.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/four_target_training_coverage_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/1.7_four_target_training_coverage_analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,61 +48,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3164391484925702" />
-      <entry key="MS500" value="1.794434400096105" />
-      <entry key="S2" value="1.9442010709731568" />
-      <entry key="S5" value="2.0032168645569586" />
-      <entry key="S10" value="2.14970120098363" />
-      <entry key="S30" value="2.5403435174864173" />
-      <entry key="S60" value="2.7361954973741858" />
-      <entry key="M2" value="2.919566519728919" />
-      <entry key="M5" value="5.219899312349577" />
-      <entry key="M10" value="11.749530710735103" />
-      <entry key="M15" value="17.791144770681484" />
-      <entry key="M30" value="30.872554379000146" />
-      <entry key="H1" value="44.519595752280495" />
-      <entry key="H2" value="57.025524124872334" />
-      <entry key="H4" value="67.53438601093904" />
-      <entry key="D1" value="81.34021116894434" />
-      <entry key="W1" value="84.45369745561845" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0007533897925316" />
+      <entry key="S2" value="1.2798654884359346" />
+      <entry key="S5" value="2.0533409908201046" />
+      <entry key="S10" value="2.905432715559642" />
+      <entry key="S30" value="4.667963446487715" />
+      <entry key="S60" value="6.188730675779914" />
+      <entry key="M2" value="7.627866311556973" />
+      <entry key="M5" value="8.901577945384995" />
+      <entry key="M10" value="9.43279627073255" />
+      <entry key="M15" value="9.778047732437564" />
+      <entry key="M30" value="12.820931068094971" />
+      <entry key="H1" value="23.824698409493543" />
+      <entry key="H2" value="41.84257773965633" />
+      <entry key="H4" value="60.4801974639883" />
+      <entry key="D1" value="87.49087959540171" />
+      <entry key="W1" value="93.87086261014375" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="5.379792050348584E-194" />
-      <entry key="S5" value="4.923865661844682E-78" />
-      <entry key="S10" value="2.2189785176618258E-39" />
-      <entry key="S30" value="1.3043206375072108E-13" />
-      <entry key="S60" value="3.6115379514927037E-7" />
-      <entry key="M2" value="6.009607267944135E-4" />
-      <entry key="M5" value="0.051468135611200914" />
-      <entry key="M10" value="0.22686589785862685" />
-      <entry key="M15" value="0.3719741946758231" />
-      <entry key="M30" value="0.6098968721643216" />
-      <entry key="H1" value="0.7809589439684532" />
-      <entry key="H2" value="0.8837188149906359" />
-      <entry key="H4" value="0.9400631973386878" />
-      <entry key="D1" value="0.9897515148479685" />
-      <entry key="W1" value="0.9985294590977251" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="4.3490761507975625E-221" />
+      <entry key="S30" value="3.5166758365629235E-74" />
+      <entry key="S60" value="1.8752802021465827E-37" />
+      <entry key="M2" value="4.3304505564046995E-19" />
+      <entry key="M5" value="4.5145371766607156E-8" />
+      <entry key="M10" value="2.124744026150142E-4" />
+      <entry key="M15" value="0.00356071934940149" />
+      <entry key="M30" value="0.059671763417897136" />
+      <entry key="H1" value="0.24427804530472472" />
+      <entry key="H2" value="0.49424492440967466" />
+      <entry key="H4" value="0.7030255503249329" />
+      <entry key="D1" value="0.9429641564593154" />
+      <entry key="W1" value="0.9916455217970002" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.2737224322610747" />
-      <entry key="MS500" value="1.7831338073004133" />
-      <entry key="S2" value="1.9411616698194853" />
-      <entry key="S5" value="2.00196781020552" />
-      <entry key="S10" value="2.149035966770769" />
-      <entry key="S30" value="2.5400856482384477" />
-      <entry key="S60" value="2.736057862179138" />
-      <entry key="M2" value="2.9200877560765655" />
-      <entry key="M5" value="5.271097685989672" />
-      <entry key="M10" value="11.975825819293464" />
-      <entry key="M15" value="18.16244787999795" />
-      <entry key="M30" value="31.481788431695396" />
-      <entry key="H1" value="45.300008690685594" />
-      <entry key="H2" value="57.9087958446618" />
-      <entry key="H4" value="68.47411342282925" />
-      <entry key="D1" value="82.32987506863697" />
-      <entry key="W1" value="85.4522132616965" />
+      <entry key="MS100" value="0.8350879194283694" />
+      <entry key="MS500" value="0.9651606345951202" />
+      <entry key="S2" value="1.2529353347170729" />
+      <entry key="S5" value="2.0260833900138127" />
+      <entry key="S10" value="2.8859261156594376" />
+      <entry key="S30" value="4.6595338215126265" />
+      <entry key="S60" value="6.184174038095034" />
+      <entry key="M2" value="7.625479662718099" />
+      <entry key="M5" value="8.900592155663972" />
+      <entry key="M10" value="9.432509507694823" />
+      <entry key="M15" value="9.781268222489652" />
+      <entry key="M30" value="12.88037039720596" />
+      <entry key="H1" value="24.068721702946473" />
+      <entry key="H2" value="42.33653058699762" />
+      <entry key="H4" value="61.18295087330346" />
+      <entry key="D1" value="88.43375677289045" />
+      <entry key="W1" value="94.86249407221673" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -122,30 +117,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "git.auto.fetch.suggestion.counter": "2",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/u7779895/PycharmProjects/streaming-flow-policy/experiments/four_boxes_experiments",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;2&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/u7779895/PycharmProjects/streaming-flow-policy/experiments/four_boxes_experiments&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/experiments/four_boxes_experiments" />
@@ -195,7 +190,9 @@
       <workItem from="1790283626408" duration="5309000" />
       <workItem from="1790303822973" duration="67000" />
       <workItem from="1790303896812" duration="2779000" />
-      <workItem from="1790736772220" duration="7165000" />
+      <workItem from="1790736772220" duration="7205000" />
+      <workItem from="1790901361813" duration="1582000" />
+      <workItem from="1790903744938" duration="4633000" />
     </task>
     <task id="LOCAL-00001" summary="Experiments of four boxes on 50 200 1000 2000 5000 epoches">
       <option name="closed" value="true" />
@@ -269,7 +266,23 @@
       <option name="project" value="LOCAL" />
       <updated>1790307095795</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="3">
+      <option name="closed" value="true" />
+      <created>1790747887605</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1790747887605</updated>
+    </task>
+    <task id="LOCAL-00011" summary="3">
+      <option name="closed" value="true" />
+      <created>1790747892424</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1790747892424</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +317,8 @@
     <MESSAGE value="experiment on how to improve performance" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;experiments/four_boxes_experiments/four_target_single_vs_multiroute_training.ipynb" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/four_target_shortest_paths_5000_epochs_ipynb$1.coverage" NAME="1 覆盖结果" MODIFIED="1789437806415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiments/four_boxes_experiments" />

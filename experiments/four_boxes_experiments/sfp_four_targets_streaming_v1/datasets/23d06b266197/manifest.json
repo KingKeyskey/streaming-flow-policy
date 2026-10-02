@@ -1,0 +1,40 @@
+{
+  "spec": {
+    "implementation": "four_targets_streaming_v1.0",
+    "data": {
+      "sizes": {
+        "train": 10000,
+        "validation": 1000,
+        "test": 1000
+      },
+      "seeds": {
+        "train": 100,
+        "validation": 200,
+        "test": 300
+      },
+      "start": [
+        0.5,
+        0.05
+      ],
+      "target_low": [
+        0.1,
+        0.2
+      ],
+      "target_high": [
+        0.9,
+        0.9
+      ],
+      "min_target_separation": 0.12,
+      "min_start_distance": 0.15,
+      "expert_max_step": 0.01,
+      "visit_tolerance": 0.02,
+      "obs_horizon": 2,
+      "pred_horizon": 16
+    }
+  },
+  "fingerprints": {
+    "train": "00ec88c64144b5a4f7220674e99372d463799b0f2b09d33369dc45c7f30af666",
+    "validation": "549c510365454b9a26fb38b6e98c8e49abc7bb1e5be6b52169e90a86eef8bb04",
+    "test": "3e8db9f2051b80fca5587f0c312ffca45104a72a1491775f3d78dfa54e6c96da"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "python": "3.12.3",
+  "numpy": "2.5.3",
+  "torch": "2.14.0+cu130",
+  "device": "cuda",
+  "cuda_available": true,
+  "gpu": "NVIDIA GeForce RTX 5090"
+}
