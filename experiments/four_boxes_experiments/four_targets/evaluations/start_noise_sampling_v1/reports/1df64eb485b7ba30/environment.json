@@ -1,0 +1,12 @@
+{
+  "python": "3.11.16",
+  "numpy": "2.2.6",
+  "pandas": "3.0.5",
+  "torch": "2.7.1+cu126",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "checkpoint_paths": {
+    "(10000, 0, 'single')": "/home/matcho/projects/streaming-flow-policy/experiments/four_boxes_experiments/four_targets/runs/single_vs_multi_05pct_v1/budget_10000_seed_0_single/final.pt",
+    "(10000, 0, 'multi')": "/home/matcho/projects/streaming-flow-policy/experiments/four_boxes_experiments/four_targets/runs/single_vs_multi_05pct_v1/budget_10000_seed_0_multi/final.pt"
+  }
+}
