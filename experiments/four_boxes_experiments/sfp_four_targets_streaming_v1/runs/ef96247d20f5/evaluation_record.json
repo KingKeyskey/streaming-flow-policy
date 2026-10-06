@@ -1,5 +1,5 @@
 {
-  "requested_epochs": 20000,
+  "requested_epochs": 100000,
   "seeds": [
     0
   ],
