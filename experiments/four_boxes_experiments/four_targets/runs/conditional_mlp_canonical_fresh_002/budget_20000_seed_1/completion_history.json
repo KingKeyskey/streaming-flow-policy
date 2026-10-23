@@ -1,0 +1,30 @@
+{
+  "monitor_spec": {
+    "every": 10,
+    "layouts": 100,
+    "ode_steps": 1000,
+    "visit_tolerance": 0.02,
+    "metrics_version": "completion_optimal_order_v1",
+    "optimal_order_rtol": 1e-06
+  },
+  "records": [
+    {
+      "epoch": 1,
+      "validation_loss": 0.5304377285003662,
+      "completion_percent": 0.0,
+      "optimal_order_success_percent": 0.0,
+      "mean_visited": 0.16,
+      "invalid_count": 0,
+      "layouts": 100
+    },
+    {
+      "epoch": 10,
+      "validation_loss": 0.2865279712200165,
+      "completion_percent": 0.0,
+      "optimal_order_success_percent": 0.0,
+      "mean_visited": 0.52,
+      "invalid_count": 0,
+      "layouts": 100
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "selection": "completion",
+  "epoch": 15250,
+  "validation_mse": 0.02838226554095745,
+  "checkpoint_path": "/home/matcho/projects/streaming-flow-policy/experiments/four_boxes_experiments/four_targets/runs/conditional_mlp_canonical_fresh_002/budget_20000_seed_0/best_completion.pt",
+  "completion_best_epoch": 15250,
+  "completion_best_percent": 75.0,
+  "completion_best_mse": 0.02838226554095745,
+  "completion_best_optimal_percent": 75.0,
+  "selection_order": [
+    "completion",
+    "optimal_order_success",
+    "lower_validation_mse"
+  ]
+}

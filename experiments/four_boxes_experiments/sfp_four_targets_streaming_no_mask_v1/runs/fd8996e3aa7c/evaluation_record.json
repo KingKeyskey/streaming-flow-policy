@@ -1,0 +1,15 @@
+{
+  "requested_epochs": 100000,
+  "seeds": [
+    0
+  ],
+  "primary_chunk": 8,
+  "evaluated_chunks": [
+    1,
+    4,
+    8,
+    14
+  ],
+  "run_id": "fd8996e3aa7c",
+  "quick_check": false
+}

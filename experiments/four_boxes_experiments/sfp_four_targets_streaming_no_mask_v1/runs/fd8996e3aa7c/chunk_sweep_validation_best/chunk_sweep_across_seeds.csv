@@ -1,0 +1,15 @@
+checkpoint,chunk,n_seeds,mean_success_percent,sd_success_percent,mean_optimal_order_success_percent,sd_optimal_order_success_percent,mean_nearopt_order_success_percent,sd_nearopt_order_success_percent,mean_mean_visited,sd_mean_visited,mean_mean_actual_length_success,sd_mean_actual_length_success,mean_mean_length_to_center_optimal_success,sd_mean_length_to_center_optimal_success
+best.pt,1,1,69.1,nan,60.4,nan,64.60000000000001,nan,3.644,nan,1.3734492612584877,nan,1.0615619901252067,nan
+best.pt,2,1,79.2,nan,72.2,nan,75.8,nan,3.766,nan,1.3211718380821122,nan,1.0235591497849854,nan
+best.pt,3,1,82.39999999999999,nan,75.0,nan,78.7,nan,3.799,nan,1.3216484237746227,nan,1.018475041411379,nan
+best.pt,4,1,84.8,nan,76.9,nan,81.8,nan,3.829,nan,1.3116870842422388,nan,1.0124769173603763,nan
+best.pt,5,1,86.9,nan,78.0,nan,83.8,nan,3.855,nan,1.3263293241476664,nan,1.0178633799928392,nan
+best.pt,6,1,87.9,nan,80.4,nan,86.0,nan,3.863,nan,1.3082599918721671,nan,1.007906543057247,nan
+best.pt,7,1,87.9,nan,81.0,nan,86.6,nan,3.862,nan,1.3054357350959247,nan,1.0060972117666498,nan
+best.pt,8,1,88.0,nan,81.0,nan,86.6,nan,3.859,nan,1.3073355417319374,nan,1.0041245330735438,nan
+best.pt,9,1,88.5,nan,81.6,nan,87.4,nan,3.868,nan,1.2987185019774952,nan,0.9994963736490194,nan
+best.pt,10,1,88.4,nan,81.69999999999999,nan,87.4,nan,3.859,nan,1.3038933992081845,nan,1.0008885033549824,nan
+best.pt,11,1,88.9,nan,82.3,nan,88.2,nan,3.87,nan,1.2997612459871561,nan,1.0004283276066699,nan
+best.pt,12,1,88.2,nan,81.10000000000001,nan,87.4,nan,3.868,nan,1.2982376475684907,nan,0.9988243765251539,nan
+best.pt,13,1,88.7,nan,83.39999999999999,nan,87.8,nan,3.863,nan,1.30170693319368,nan,1.0019479775515276,nan
+best.pt,14,1,87.7,nan,81.3,nan,86.6,nan,3.86,nan,1.3075714195882873,nan,1.0040993818879895,nan
