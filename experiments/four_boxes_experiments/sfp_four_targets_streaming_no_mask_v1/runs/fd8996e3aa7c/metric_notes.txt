@@ -1,0 +1,53 @@
+Streaming four-target experiment: no-mask v1
+
+Policy: state-trajectory SFP with measured xy and four fixed box coordinates
+in the last TWO observation frames. NO visited mask, visit count, global episode
+time, or recurrent hidden state is provided. The MLP input is 23-dimensional:
+2 flow-state coordinates + 1 local time + 2 * (2 measured coordinates + 8 box
+coordinates). The original has 31 input dimensions; hidden layers are unchanged.
+Training sampling does not read visit records. Environment-only visitation
+bookkeeping is retained for scoring and termination. No planner or order selector
+is used at inference. The ideal kinematic environment follows the commanded segment.
+Each new action is executed immediately. Conditions are frozen within a chunk;
+at its boundary the history is updated and local flow time resets to zero.
+
+Window convention: pred_horizon counts history frames plus future frames.
+With 2 observation frames and 16 total frames there are 14 future intervals.
+Local xi(0) is current position and xi(1) is 14 control steps into the future.
+Default chunk 8 only integrates to 8/14 before the next observation update.
+Gaussian training tube: sigma(t)=sigma0*exp(-k*t). Inference noise is zero.
+
+Expert routes minimize Euclidean length through all four box CENTERS (open tour).
+Box centers are included explicitly during discretization. At evaluation, a box
+is visited when the realized continuous segment enters its visit-tolerance circle.
+Episode termination trims the last executed segment at first full completion.
+
+completion: all four boxes reached within max_env_steps and no invalid prediction.
+optimal_order_success: completion AND first-visit center-order length equals
+the exact center optimum (relative tolerance 1e-6, accepting tied optima).
+nearopt_order_success: completion AND center-order gap <= nearopt_slack.
+Neither order metric claims the executed curve is shortest.
+length_to_center_optimal: executed length / center-based optimum, on successes.
+It MAY BE BELOW ONE because touching a tolerance circle need not reach its center.
+It is a reference-relative length, NOT an exact optimality gap for disk visitation.
+Failed rollouts are not included in success-only length averages; always read these
+alongside completion rate and the per-layout records.
+
+Best checkpoint: highest completion on a fixed validation monitor subset, then
+near-optimal order success, mean visits, and lower velocity MSE. The primary chunk
+alone selects the checkpoint. Every final chunk uses that same checkpoint.
+Test results do not select checkpoints. Changing chunk alters feedback frequency
+but not the number of actions allowed or the numerical integrator.
+The old full-episode model is not retrained here. Chunk=14 is a full LOCAL-window
+baseline, NOT the old full-four-boxes-in-one-flow experiment.
+
+Interpretation: this is a separately trained no-mask ablation of the successful
+closed-loop baseline, with the same default 100000 epochs and random seeds.
+Static geometry and recent movement can still provide progress cues. Strong
+performance alone does not establish learned persistent memory.
+
+There is no recovery-data augmentation, latent mode variable, or multimodal
+near-optimal training in this first-stage experiment. Completion or global
+optimality is not guaranteed. A pipeline smoke run is not a learning result.
+Exact continuation is intended on the same software/device; different hardware
+can cause floating-point differences. Moving the whole output folder is supported.
