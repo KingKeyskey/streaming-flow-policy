@@ -1,6 +1,6 @@
 {
   "seed": 0,
-  "completed_epoch": 50000,
-  "requested_epochs": 50000,
-  "best_epoch": 49750
+  "completed_epoch": 100000,
+  "requested_epochs": 100000,
+  "best_epoch": 98875
 }

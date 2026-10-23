@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="100000">
-      <change beforePath="$PROJECT_DIR$/.idea/streaming-flow-policy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/streaming-flow-policy.iml" afterDir="false" />
+    <list default="true" id="fc375fa0-7bf5-4e0c-a485-a0eea6fe936d" name="更改" comment="no mask">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/4.0_four_targets_streaming_sfp_v1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/4.0_four_targets_streaming_sfp_v1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/4.1_four_targets_streaming_sfp_no_mask.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/4.1_four_targets_streaming_sfp_no_mask.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/across_seed_summary.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/across_seed_summary.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/chunk_comparison.png" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/chunk_comparison.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/environment.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/environment.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/chunk_sweep_validation_best/chunk_sweep_across_seeds.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/chunk_sweep_validation_best/chunk_sweep_across_seeds.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/chunk_sweep_validation_best/chunk_sweep_length_ratio.png" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/chunk_sweep_validation_best/chunk_sweep_length_ratio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/chunk_sweep_validation_best/chunk_sweep_per_layout.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/chunk_sweep_validation_best/chunk_sweep_per_layout.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/chunk_sweep_validation_best/chunk_sweep_per_seed.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/chunk_sweep_validation_best/chunk_sweep_per_seed.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/chunk_sweep_validation_best/chunk_sweep_success.png" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/chunk_sweep_validation_best/chunk_sweep_success.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/failure_cases_validation_chunk_8_best/failures_closest_chunk_8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/failure_cases_validation_chunk_8_best/failures_closest_chunk_8.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/failure_cases_validation_chunk_8_best/failures_closest_chunk_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/failure_cases_validation_chunk_8_best/failures_closest_chunk_8.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/paired_chunk_changes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/paired_chunk_changes.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/per_layout.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/per_layout.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/per_seed_summary.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/per_seed_summary.csv" afterDir="false" />
@@ -23,7 +27,6 @@
       <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/seed_0/status.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/seed_0/status.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/seed_0/training.png" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/seed_0/training.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/seed_0/training_log.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_no_mask_v1/runs/fd8996e3aa7c/seed_0/training_log.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_v1/runs/ef96247d20f5/environment.json" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/four_boxes_experiments/sfp_four_targets_streaming_v1/runs/ef96247d20f5/environment.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,31 +55,31 @@
     &quot;assignee&quot;: &quot;KingKeyskey&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KingKeyskey/streaming-flow-policy.git",
-    "accountId": "ee3f4bea-6a1c-49db-b3c0-41c0e57f6b62"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KingKeyskey/streaming-flow-policy.git&quot;,
+    &quot;accountId&quot;: &quot;ee3f4bea-6a1c-49db-b3c0-41c0e57f6b62&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0083153920504169" />
-      <entry key="MS500" value="1.3836865240002216" />
-      <entry key="S2" value="1.787035163694707" />
-      <entry key="S5" value="1.908652141782786" />
-      <entry key="S10" value="1.9532324699582921" />
-      <entry key="S30" value="1.9841612828171606" />
-      <entry key="S60" value="1.9920490324662188" />
-      <entry key="M2" value="1.9960165824253222" />
-      <entry key="M5" value="1.9984047248004861" />
-      <entry key="M10" value="1.9992020440333806" />
-      <entry key="M15" value="1.9994679585822932" />
-      <entry key="M30" value="1.999733943898222" />
-      <entry key="H1" value="1.9998669630997026" />
-      <entry key="H2" value="1.9999334793377062" />
-      <entry key="H4" value="1.9999723552371949" />
-      <entry key="D1" value="8.18232908985576" />
-      <entry key="W1" value="69.7497815702902" />
+      <entry key="MS100" value="1.0061856922444912" />
+      <entry key="MS500" value="1.7467359578516057" />
+      <entry key="S2" value="3.083676378287431" />
+      <entry key="S5" value="3.589038458589505" />
+      <entry key="S10" value="3.786224408727271" />
+      <entry key="S30" value="3.926806476553934" />
+      <entry key="S60" value="3.963155381038518" />
+      <entry key="M2" value="3.9815152676668237" />
+      <entry key="M5" value="3.992591066469789" />
+      <entry key="M10" value="3.996293021525145" />
+      <entry key="M15" value="3.997528122492221" />
+      <entry key="M30" value="3.998763781892073" />
+      <entry key="H1" value="3.999381821090316" />
+      <entry key="H2" value="3.99969089307943" />
+      <entry key="H4" value="3.999851058064632" />
+      <entry key="D1" value="10.182266715006572" />
+      <entry key="W1" value="71.74971268273204" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -88,33 +91,33 @@
       <entry key="S60" value="0.0" />
       <entry key="M2" value="0.0" />
       <entry key="M5" value="0.0" />
-      <entry key="M10" value="2.030183562547439E-174" />
-      <entry key="M15" value="1.6033322865617045E-116" />
-      <entry key="M30" value="1.2662275808722947E-58" />
-      <entry key="H1" value="1.1252677818511887E-29" />
-      <entry key="H2" value="3.3545011281130764E-15" />
-      <entry key="H4" value="5.791805528600797E-8" />
-      <entry key="D1" value="0.062201710628498066" />
-      <entry key="W1" value="0.67249033480278" />
+      <entry key="M10" value="2.028190985004218E-174" />
+      <entry key="M15" value="1.6022830261916232E-116" />
+      <entry key="M30" value="1.2658131877143728E-58" />
+      <entry key="H1" value="1.1250836358752945E-29" />
+      <entry key="H2" value="3.3542266409342352E-15" />
+      <entry key="H4" value="5.791568562085953E-8" />
+      <entry key="D1" value="0.06220128646675798" />
+      <entry key="W1" value="0.6724896796864283" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9606701373146879" />
-      <entry key="MS500" value="1.3713790795179668" />
-      <entry key="S2" value="1.7832494419320348" />
-      <entry key="S5" value="1.9070525949834076" />
-      <entry key="S10" value="1.9524170766656814" />
-      <entry key="S30" value="1.9838858733506048" />
-      <entry key="S60" value="1.9919108672206058" />
-      <entry key="M2" value="1.995947383985698" />
-      <entry key="M5" value="1.998377017540018" />
-      <entry key="M10" value="1.9991881857483105" />
-      <entry key="M15" value="1.999458718690623" />
-      <entry key="M30" value="1.9997293234347713" />
-      <entry key="H1" value="1.9998646527385475" />
-      <entry key="H2" value="1.999932324124771" />
-      <entry key="H4" value="1.9999718355177807" />
-      <entry key="D1" value="8.244524909367648" />
-      <entry key="W1" value="70.42226227401135" />
+      <entry key="MS100" value="0.9780705847160559" />
+      <entry key="MS500" value="1.724347695091103" />
+      <entry key="S2" value="3.071686650048524" />
+      <entry key="S5" value="3.58335805878939" />
+      <entry key="S10" value="3.783215943021805" />
+      <entry key="S30" value="3.925764105025036" />
+      <entry key="S60" value="3.9626291106218408" />
+      <entry key="M2" value="3.9812508504857624" />
+      <entry key="M5" value="3.9924849905300883" />
+      <entry key="M10" value="3.996239931927502" />
+      <entry key="M15" value="3.9974927179456325" />
+      <entry key="M30" value="3.9987460738758682" />
+      <entry key="H1" value="3.9993729656460797" />
+      <entry key="H2" value="3.9996864649982298" />
+      <entry key="H4" value="3.99984890182703" />
+      <entry key="D1" value="10.244461837632254" />
+      <entry key="W1" value="72.42219269237965" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -206,7 +209,9 @@
       <workItem from="1790901361813" duration="1582000" />
       <workItem from="1790903744938" duration="4633000" />
       <workItem from="1792686250538" duration="8782000" />
-      <workItem from="1792708234496" duration="2556000" />
+      <workItem from="1792708234496" duration="3172000" />
+      <workItem from="1792723509481" duration="499000" />
+      <workItem from="1792725496434" duration="702000" />
     </task>
     <task id="LOCAL-00001" summary="Experiments of four boxes on 50 200 1000 2000 5000 epoches">
       <option name="closed" value="true" />
@@ -312,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791249444074</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="no mask">
+      <option name="closed" value="true" />
+      <created>1792715879999</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1792715879999</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,7 +364,8 @@
     <MESSAGE value="experiment 3" />
     <MESSAGE value="4" />
     <MESSAGE value="100000" />
-    <option name="LAST_COMMIT_MESSAGE" value="100000" />
+    <MESSAGE value="no mask" />
+    <option name="LAST_COMMIT_MESSAGE" value="no mask" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/four_target_shortest_paths_5000_epochs_ipynb$1.coverage" NAME="1 覆盖结果" MODIFIED="1789437806415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiments/four_boxes_experiments" />

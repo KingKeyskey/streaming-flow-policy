@@ -1,7 +1,7 @@
 seed,split,chunk,reference_chunk,n_layouts,rescued,regressed,success_difference_pp
-0,validation,1,8,1000,65,228,-16.3
-0,validation,4,8,1000,49,78,-2.9
-0,validation,14,8,1000,51,60,-0.9
-0,test,1,8,1000,56,238,-18.2
-0,test,4,8,1000,27,102,-7.5
-0,test,14,8,1000,53,73,-2.0
+0,validation,1,8,1000,38,226,-18.8
+0,validation,4,8,1000,39,71,-3.2
+0,validation,14,8,1000,36,39,-0.3
+0,test,1,8,1000,44,231,-18.7
+0,test,4,8,1000,43,81,-3.8
+0,test,14,8,1000,42,46,-0.4
